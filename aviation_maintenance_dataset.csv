@@ -1,0 +1,1241 @@
+maintenance_id,aircraft_id,aircraft_model,base_location,maintenance_type,supplier_name,event_date,downtime_hours,supplier_delay_days,maintenance_status,maintenance_cost,readiness_score
+1,AC-1409,F-16,Luke AFB,Avionics,Northrop,11/23/2024,21.0,4,Completed,32772.26,71
+2,AC-4811,B-2,Eglin AFB,Engine Repair,L3Harris,2024-02-17,30.0,4,Delayed,22190.36,64
+3,AC-3615,C-130,Hill AFB,Hydraulics,Northrop,03/21/2025,30.0,8,Awaiting Parts,19366.31,57
+4,AC-1711,C-130,Eglin AFB,Engine Repair,GE Aerospace,2024-11-05,22.0,3,In Progress,19411.24,74
+5,AC-4733,F-16,Fort Worth,Avionics,Raytheon,01/24/2024,19.0,0,Delayed,4300.99,86
+6,AC-2169,B-2,Luke AFB,Landing Gear,Northrop,2024-05-16,13.0,0,Delayed,28770.97,92
+7,AC-4752,F-35A,Hill AFB,Software Update,Boeing,2025-02-01,10.0,0,In Progress,42587.79,85
+8,AC-8517,F-22,Hill AFB,Avionics,Northrop,03/28/2025,16.0,5,Awaiting Parts,7903.02,84
+9,AC-9348,C-130,Fort Worth,Engine Repair,Raytheon,2024-04-22,13.0,5,Completed,11188.08,79
+10,AC-5119,B-2,Fort Worth,Electrical,Raytheon,08/27/2024,21.0,2,In Progress,21499.68,80
+11,AC-5315,B-2,Luke AFB,Landing Gear,Raytheon,08/20/2024,13.0,12,Delayed,24838.03,70
+12,AC-1009,B-2,Hill AFB,Software Update,Raytheon,2024-10-03,9.0,8,In Progress,10349.88,86
+13,AC-2403,C-130,Fort Worth,Landing Gear,Northrop,2024-10-17,19.0,0,In Progress,9061.77,77
+14,AC-9835,F-22,Hill AFB,Software Update,Boeing ,05/08/2025,19.0,7,Delayed,27056.42,72
+15,AC-4608,F-35A,Fort Worth,Electrical,Raytheon,10/10/2024,17.0,3,Completed,7257.74,78
+16,AC-9834,F-22,Eglin AFB,Landing Gear,GE Aerospace,09/05/2024,12.0,3,Completed,37685.47,83
+17,AC-8651,F-35A,Fort Worth,Engine Repair,GE Aerospace,08/04/2024,20.0,0,Delayed,28889.01,81
+18,AC-5563,C-130,Luke AFB,Engine Repair,GE Aerospace,08/04/2024,14.0,2,Completed,32340.12,81
+19,AC-3724,C-130,Nellis AFB,Software Update,Northrop,03/10/2025,26.0,8,Completed,14929.39,64
+20,AC-5673,C-130,Eglin AFB,Electrical,GE Aerospace,2025-02-05,15.0,6,Completed,36706.54,81
+21,AC-9238,B-2,Luke AFB,Engine Repair,L3Harris,2024-10-26,14.0,4,Delayed,11723.98,84
+22,AC-1651,B-2,Fort Worth,Software Update,L3Harris,10/18/2024,8.0,8,In Progress,41274.88,82
+23,AC-5915,C-130,Hill AFB,Engine Repair,Raytheon,12/09/2024,17.0,9,Completed,29339.63,79
+24,AC-2127,F-22,Hill AFB,Hydraulics,Northrop,03/08/2024,12.0,6,Completed,43456.44,82
+25,AC-2697,F-22,Hill AFB,Engine Repair,Raytheon,04/22/2025,17.0,11,Delayed,6436.94,77
+26,AC-9280,C-130,Hill AFB,Engine Repair,Raytheon,11/20/2024,24.0,N/A,In Progress,21411.91,70
+27,AC-8239,B-2,Nellis AFB,Landing Gear,Raytheon,2024-05-14,18.0,0,Delayed,22363.94,79
+28,AC-3426,C-130,Luke AFB,Engine Repair,Boeing,10/25/2024,20.0,10,Completed,18780.76,73
+29,AC-2684,F-16,Eglin AFB,Software Update,L3Harris,05/07/2024,11.0,2,Delayed,35984.83,92
+30,AC-1406,F-22,Hill AFB,Software Update,Northrop,03/27/2025,20.0,2,Completed,31159.21,79
+31,AC-6728,F-16,Luke AFB,Avionics,Raytheon,02/22/2025,18.0,8,Completed,16575.36,76
+32,AC-7548,B-2,Hill AFB,Engine Repair,Raytheon,11/24/2024,15.0,3,In Progress,7437.82,85
+33,AC-8149,B-2,Eglin AFB,engine repair,GE Aerospace,06/25/2024,20.0,N/A,Awaiting Parts,25061.36,74
+34,AC-4228,F-16,Nellis AFB,Engine Repair,Boeing,10/02/2024,16.0,0,In Progress,19952.26,89
+35,AC-5844,B-2,Luke AFB,Avionics,GE Aerospace,06/16/2024,15.0,1,Delayed,23064.57,85
+36,AC-5978,F-16,Luke AFB,Software Update,L3Harris,10/07/2024,21.0,12,Delayed,27094.93,62
+37,AC-2389,F-16,Eglin AFB,Electrical,L3Harris,05/06/2025,20.0,4,In Progress,1974.75,73
+38,AC-5011,C-130,Eglin AFB,Engine Repair,GE Aerospace,01/13/2024,17.0,5,Awaiting Parts,54558.91,73
+39,AC-2746,C-130,Luke AFB,Avionics,L3Harris,12/01/2024,16.0,6,Completed,24583.46,73
+40,AC-6198,C-130,Eglin AFB,Electrical,L3Harris,12/07/2024,8.0,9,Delayed,34023.2,86
+41,AC-5543,B-2,Nellis AFB,Electrical,Northrop,05/12/2024,24.0,1,In Progress,41833.53,73
+42,AC-3471,F-22,Nellis AFB,Electrical,Northrop,02/11/2024,6.0,7,Awaiting Parts,51285.47,84
+43,AC-1320,B-2,Nellis AFB,Software Update,Raytheon,08/03/2024,10.0,2,Awaiting Parts,26195.82,89
+44,AC-4613,C-130,Luke AFB,Hydraulics,GE Aerospace,02/13/2025,13.0,0,Awaiting Parts,25822.76,91
+45,AC-9751,F-35A,Nellis AFB,Landing Gear,L3Harris,04/15/2025,9.0,6,Awaiting Parts,13966.91,82
+46,AC-8449,F-16,Hill AFB,Software Update,Boeing,06/16/2024,30.0,1,Completed,21135.26,67
+47,AC-4673,F-35A,Fort Worth,Engine Repair,Northrop,2024-01-27,,0,Delayed,27729.52,76
+48,AC-8619,F-16,Hill AFB,Avionics,L3Harris,04/30/2025,28.0,0,Delayed,27215.61,70
+49,AC-7149,C-130,Luke AFB,Engine Repair,L3Harris,01/14/2024,20.0,8,In Progress,10156.59,71
+50,AC-1672,F-16,Eglin AFB,Software Update,Boeing,2024-03-02,7.0,N/A,Awaiting Parts,28563.82,90
+51,AC-8532,F-22,Nellis AFB,Avionics,L3Harris,05/06/2025,20.0,6,Awaiting Parts,16839.7,74
+52,AC-6280,F-22,Fort Worth,Hydraulics,GE Aerospace,10/30/2024,19.0,6,Awaiting Parts,16427.78,74
+53,AC-8988,F-22,Hill AFB,Hydraulics,Boeing,06/15/2024,32.0,6,Completed,10704.36,59
+54,AC-9004,B-2,Luke AFB,Electrical,GE Aerospace,05/03/2024,23.0,1,Completed,34445.02,77
+55,AC-7046,C-130,Eglin AFB,Landing Gear,Boeing,05/04/2024,27.0,1,Awaiting Parts,36560.51,71
+56,AC-6169,F-35A,Eglin AFB,Electrical,Northrop,2024-03-02,21.0,8,In Progress,47761.52,69
+57,AC-6912,F-22,Hill AFB,Engine Repair,L3Harris,2024-05-31,,N/A,In Progress,14325.83,81
+58,AC-2680,F-35A,Eglin AFB,Hydraulics,GE Aerospace,03/20/2025,11.0,4,In Progress,29093.82,87
+59,AC-7565,C-130,Fort Worth,Landing Gear,Raytheon,2025-02-24,20.0,8,Completed,25156.02,68
+60,AC-4697,B-2,Nellis AFB,Software Update,GE Aerospace,01/26/2025,29.0,3,Completed,57642.03,69
+61,AC-4457,F-16,Fort Worth,Avionics,Northrop,2025-04-30,23.0,N/A,Awaiting Parts,12149.29,74
+62,AC-5720,F-16,Nellis AFB,Engine Repair,Northrop,01/17/2024,21.0,4,Delayed,33568.01,73
+63,AC-5352,F-22,Fort Worth,Engine Repair,Northrop,11/27/2024,21.0,4,In Progress,14838.48,72
+64,AC-5460,B-2,Eglin AFB,Software Update,GE Aerospace ,2024-06-04,,3,In Progress,35276.79,93
+65,AC-1339,F-16,Eglin AFB,Engine Repair,Northrop,04/27/2024,19.0,0,Delayed,27078.17,86
+66,AC-2494,C-130,Hill AFB,Software Update,Boeing,02/20/2025,21.0,1,Awaiting Parts,26844.7,80
+67,AC-1601,C-130,Fort Worth,Hydraulics,Boeing,04/28/2025,18.0,0,Completed,29293.45,83
+68,AC-4073,B-2,Hill AFB,Landing Gear,GE Aerospace,07/30/2024,22.0,9,Delayed,37645.62,64
+69,AC-2989,F-35A,Eglin AFB,Avionics,Northrop,12/23/2024,,1,Delayed,31180.42,95
+70,AC-3522,C-130,Hill AFB,Landing Gear,Boeing,08/24/2024,22.0,7,Awaiting Parts,71232.78,67
+71,AC-9327,F-22,Fort Worth,Hydraulics,GE Aerospace,04/16/2025,22.0,9,Completed,36448.02,73
+72,AC-9022,F-22,Nellis AFB,Landing Gear,GE Aerospace,10/27/2024,23.0,3,Awaiting Parts,34107.63,78
+73,AC-7274,F-22,Nellis AFB,Engine Repair,Boeing,12/23/2024,11.0,4,Awaiting Parts,19175.64,83
+74,AC-9115,F-35A,Luke AFB,Landing Gear,L3Harris,11/29/2024,18.0,14,Completed,2592.82,65
+75,AC-7717,F-22,Fort Worth,Software Update,Boeing,01/04/2025,23.0,0,In Progress,19336.82,74
+76,AC-8994,B-2,Fort Worth,Landing Gear,Raytheon,07/13/2024,26.0,5,Delayed,12067.06,69
+77,AC-2646,C-130,Luke AFB,Electrical,Boeing,02/20/2024,,7,In Progress,16235.6,86
+78,AC-7751,B-2,Luke AFB,Avionics,Northrop,2024-05-05,19.0,5,Delayed,17180.8,79
+79,AC-5161,C-130,Hill AFB,Electrical,Raytheon,04/28/2024,35.0,7,Delayed,698.29,60
+80,AC-7951,F-16,Nellis AFB,Hydraulics,Northrop,10/27/2024,19.0,2,Awaiting Parts,35229.2,78
+81,AC-1359,C-130,Hill AFB,Engine Repair,L3Harris,12/24/2024,11.0,4,Awaiting Parts,31059.85,84
+82,AC-6772,F-22,Luke AFB,Landing Gear,Boeing,02/01/2025,24.0,0,Delayed,20985.99,74
+83,AC-6061,C-130,Fort Worth,Landing Gear,Boeing,11/26/2024,14.0,2,Awaiting Parts,46185.45,79
+84,AC-9697,B-2,Hill AFB,Avionics,Boeing,10/03/2024,21.0,0,In Progress,36014.34,79
+85,AC-2233,F-22,Luke AFB,electrical,GE Aerospace,02/28/2024,34.0,9,Awaiting Parts,6767.56,59
+86,AC-5295,B-2,Nellis AFB,Electrical,Boeing,2024-08-20,14.0,N/A,In Progress,16507.97,76
+87,AC-8606,F-16,Nellis AFB,Engine Repair,Northrop,2024-02-02,,8,Completed,13876.83,76
+88,AC-8432,F-16,Eglin AFB,Software Update,L3Harris,03/10/2024,17.0,0,Completed,12707.35,84
+89,AC-1536,F-16,Luke AFB,Software Update,GE Aerospace,04/25/2025,15.0,0,In Progress,44588.94,84
+90,AC-7523,F-16,Luke AFB,Engine Repair,GE Aerospace,2024-07-02,6.0,3,Completed,26568.89,86
+91,AC-4362,F-35A,Eglin AFB,Avionics,L3Harris,03/05/2024,29.0,0,Delayed,38957.97,75
+92,AC-3129,B-2,Hill AFB,Avionics,Raytheon ,05/21/2024,,N/A,Delayed,30545.24,78
+93,AC-3076,C-130,Eglin AFB,Engine Repair,Raytheon,05/15/2024,19.0,2,Completed,25837.63,74
+94,AC-9543,F-16,Nellis AFB,Electrical,Raytheon,2024-11-10,14.0,5,Completed,32945.57,76
+95,AC-6277,B-2,Luke AFB,Engine Repair,Northrop,02/07/2024,30.0,0,In Progress,50596.4,66
+96,AC-9282,B-2,Nellis AFB,Engine Repair,Raytheon,05/30/2024,2.0,4,Delayed,32059.81,96
+97,AC-8430,C-130,Nellis AFB,Electrical,Raytheon,07/30/2024,20.0,2,Delayed,22502.53,78
+98,AC-2527,C-130,Fort Worth,Electrical,Boeing,02/16/2024,14.0,2,In Progress,35195.23,80
+99,AC-7929,F-35A,Hill AFB,Landing Gear,Boeing,03/23/2025,20.0,2,Awaiting Parts,35795.2,83
+100,AC-7022,F-35A,Hill AFB,Landing Gear,Northrop,03/08/2025,20.0,8,Completed,32555.55,75
+101,AC-1474,F-22,Hill AFB,Electrical,Boeing,12/21/2024,11.0,2,Delayed,33967.52,86
+102,AC-1502,F-35A,Eglin AFB,Avionics,GE Aerospace,03/13/2024,22.0,4,In Progress,26407.93,79
+103,AC-3549,F-22,Eglin AFB,Engine Repair,Raytheon,02/13/2024,28.0,2,Awaiting Parts,31565.17,65
+104,AC-6655,C-130,Fort Worth,Hydraulics,L3Harris,09/19/2024,16.0,N/A,Awaiting Parts,38185.32,76
+105,AC-4460,F-22,Hill AFB,Hydraulics,Boeing,2024-04-14,24.0,8,Delayed,40665.75,67
+106,AC-6802,F-35A,Nellis AFB,Electrical,Raytheon,09/13/2024,18.0,N/A,In Progress,21276.8,78
+107,AC-7843,F-16,Fort Worth,Software Update,Raytheon,12/29/2024,20.0,4,Awaiting Parts,26163.95,81
+108,AC-2734,F-22,Nellis AFB,Landing Gear,GE Aerospace,02/15/2024,22.0,1,In Progress,50108.65,78
+109,AC-2868,B-2,Eglin AFB,Avionics,Boeing,02/09/2024,9.0,0,Delayed,38897.33,94
+110,AC-3504,F-35A,Luke AFB,Electrical,GE Aerospace,04/11/2024,24.0,7,In Progress,32540.15,66
+111,AC-2118,C-130,Nellis AFB,Electrical,Boeing,03/18/2024,17.0,1,Completed,25909.65,84
+112,AC-5703,F-35A,Fort Worth,Landing Gear,L3Harris,01/30/2024,12.0,8,Completed,23235.31,80
+113,AC-6267,B-2,Nellis AFB,Landing Gear,Northrop,11/29/2024,11.0,3,In Progress,29955.18,84
+114,AC-1641,F-22,Nellis AFB,Software Update,L3Harris,11/26/2024,13.0,1,In Progress,27924.25,83
+115,AC-1857,F-16,Fort Worth,Hydraulics,Raytheon,12/13/2024,19.0,2,Delayed,19347.54,83
+116,AC-6082,C-130,Luke AFB,Landing Gear,Raytheon,03/13/2024,19.0,0,Delayed,8110.43,81
+117,AC-9624,F-35A,Nellis AFB,Landing Gear,Boeing,2025-01-13,12.0,4,In Progress,28730.89,89
+118,AC-3538,F-35A,Hill AFB,Engine Repair,L3Harris,04/25/2024,29.0,8,Completed,23080.74,60
+119,AC-7172,F-22,Luke AFB,Avionics,L3Harris,11/12/2024,17.0,0,Awaiting Parts,24777.84,80
+120,AC-5668,C-130,Luke AFB,Landing Gear,Northrop,05/11/2025,15.0,6,Delayed,15073.23,81
+121,AC-5616,C-130,Eglin AFB,Landing Gear,GE Aerospace,08/13/2024,22.0,11,Delayed,23694.88,69
+122,AC-2680,B-2,Fort Worth,Hydraulics,Raytheon,09/03/2024,21.0,7,Delayed,20185.35,72
+123,AC-8391,F-16,Fort Worth,Software Update,Raytheon ,04/11/2025,19.0,5,Completed,26172.11,74
+124,AC-6493,F-22,Luke AFB,Engine Repair,Boeing ,04/21/2025,11.0,5,Awaiting Parts,30975.98,80
+125,AC-5193,F-22,Luke AFB,Landing Gear,L3Harris,02/10/2024,29.0,8,In Progress,50838.19,58
+126,AC-8489,F-35A,Fort Worth,Software Update,L3Harris ,11/23/2024,11.0,8,Delayed,27200.1,85
+127,AC-7825,F-22,Fort Worth,Landing Gear,Boeing,2024-06-29,35.0,1,Completed,14923.34,62
+128,AC-7116,F-16,Fort Worth,Hydraulics,Raytheon,11/21/2024,13.0,0,In Progress,18690.94,88
+129,AC-3868,C-130,Nellis AFB,Electrical,Northrop,06/22/2024,11.0,5,Awaiting Parts,29101.07,89
+130,AC-1686,F-16,Hill AFB,Landing Gear,GE Aerospace,02/09/2025,33.0,8,Delayed,18077.16,57
+131,AC-6438,F-16,Fort Worth,Hydraulics,GE Aerospace,01/25/2024,10.0,6,Awaiting Parts,9157.2,89
+132,AC-7018,B-2,Hill AFB,Engine Repair,GE Aerospace,2024-12-20,32.0,9,In Progress,19369.89,61
+133,AC-6021,C-130,Eglin AFB,Electrical,GE Aerospace,2024-12-04,4.0,10,In Progress,23625.52,85
+134,AC-2229,C-130,Hill AFB,Landing Gear,Northrop,11/23/2024,27.0,0,Awaiting Parts,17807.5,68
+135,AC-7001,F-16,Nellis AFB,Landing Gear,Raytheon,02/02/2025,18.0,5,In Progress,19599.21,82
+136,AC-7012,C-130,Hill AFB,Electrical,Boeing,03/11/2024,22.0,0,Awaiting Parts,23291.45,81
+137,AC-5264,C-130,Luke AFB,Landing Gear,Boeing,03/01/2024,18.0,7,Delayed,33539.38,74
+138,AC-2438,F-16,Hill AFB,Electrical,Raytheon,04/05/2025,9.0,0,Delayed,40332.12,93
+139,AC-6922,B-2,Luke AFB,Engine Repair,Northrop,11/22/2024,20.0,2,In Progress,43613.82,75
+140,AC-3126,B-2,Fort Worth,Engine Repair,Boeing,02/15/2025,18.0,9,Awaiting Parts,25810.22,76
+141,AC-6194,F-35A,Nellis AFB,Software Update,L3Harris,02/07/2024,34.0,12,Delayed,22012.43,55
+142,AC-3034,B-2,Luke AFB,Hydraulics,Northrop,2024-09-14,25.0,7,In Progress,41423.58,63
+143,AC-5496,F-22,Hill AFB,Landing Gear,L3Harris,2024-11-21,10.0,7,Delayed,37701.09,86
+144,AC-6531,B-2,Fort Worth,Engine Repair,Raytheon,2025-04-06,3.0,0,Delayed,529.21,100
+145,AC-9159,B-2,Hill AFB,Electrical,Boeing,11/23/2024,15.0,7,In Progress,43028.28,73
+146,AC-7809,C-130,Nellis AFB,Avionics,Boeing,03/21/2024,18.0,11,In Progress,8438.78,73
+147,AC-2739,F-16,Luke AFB,Software Update,Raytheon,07/08/2024,4.0,4,In Progress,29608.79,95
+148,AC-3616,F-16,Eglin AFB,Electrical,Boeing,2024-08-02,17.0,0,Awaiting Parts,23930.56,81
+149,AC-7442,B-2,Nellis AFB,Avionics,Northrop ,01/12/2024,,7,Awaiting Parts,29399.18,82
+150,AC-3194,F-16,Hill AFB,Software Update,Boeing,2024-02-25,10.0,2,In Progress,12289.44,89
+151,AC-5582,B-2,Eglin AFB,Engine Repair,Northrop,09/15/2024,17.0,8,In Progress,13171.29,77
+152,AC-9341,C-130,Eglin AFB,Engine Repair,Raytheon,2024-03-14,22.0,2,Awaiting Parts,15485.53,74
+153,AC-6218,F-22,Nellis AFB,Landing Gear,Boeing,03/12/2024,17.0,0,Awaiting Parts,18356.21,83
+154,AC-7035,F-16,Fort Worth,Software Update,L3Harris,02/21/2025,8.0,12,Completed,25423.16,75
+155,AC-4728,F-35A,Eglin AFB,Software Update,Northrop,12/01/2024,12.0,5,Awaiting Parts,23652.06,87
+156,AC-2800,F-22,Fort Worth,Software Update,Boeing,01/17/2024,16.0,7,Awaiting Parts,34090.09,81
+157,AC-9498,F-22,Eglin AFB,Hydraulics,GE Aerospace,02/01/2024,13.0,2,In Progress,21699.38,82
+158,AC-5331,B-2,Nellis AFB,Avionics,Northrop,03/20/2025,0.0,0,In Progress,41402.49,100
+159,AC-6194,C-130,Hill AFB,Landing Gear,Boeing,12/19/2024,31.0,4,Awaiting Parts,31918.68,67
+160,AC-5758,F-35A,Hill AFB,Electrical,Raytheon,02/15/2025,20.0,17,Awaiting Parts,38434.9,60
+161,AC-5450,F-22,Fort Worth,Landing Gear,L3Harris,05/18/2024,16.0,1,Delayed,5722.64,86
+162,AC-8739,F-35A,Luke AFB,Engine Repair,L3Harris,07/30/2024,19.0,1,Awaiting Parts,7932.96,80
+163,AC-6262,F-16,Fort Worth,Engine Repair,L3Harris,05/08/2025,12.0,0,Completed,45245.7,87
+164,AC-1595,C-130,Nellis AFB,Avionics,Boeing,03/27/2025,,4,Completed,42759.33,68
+165,AC-9901,B-2,Nellis AFB,Avionics,L3Harris,08/20/2024,18.0,1,Delayed,43277.49,86
+166,AC-1230,F-16,Hill AFB,Landing Gear,Northrop,2025-01-02,22.0,0,Awaiting Parts,22715.94,75
+167,AC-4027,F-22,Nellis AFB,Hydraulics,Northrop,2024-12-08,10.0,0,In Progress,36114.13,86
+168,AC-1187,F-16,Hill AFB,Electrical,Northrop,2025-01-05,33.0,0,Awaiting Parts,31755.63,71
+169,AC-2923,F-16,Hill AFB,Landing Gear,Northrop,03/30/2025,12.0,3,In Progress,17891.27,84
+170,AC-4578,F-22,Eglin AFB,Engine Repair,L3Harris,08/29/2024,11.0,N/A,Completed,15028.6,87
+171,AC-9792,F-22,Luke AFB,Hydraulics,L3Harris,09/15/2024,20.0,4,Awaiting Parts,22132.62,74
+172,AC-8429,F-22,Eglin AFB,Software Update,GE Aerospace,02/18/2025,10.0,2,In Progress,34064.69,83
+173,AC-4570,B-2,Fort Worth,Engine Repair,GE Aerospace,02/22/2025,22.0,1,Completed,26191.99,72
+174,AC-3948,F-22,Nellis AFB,Hydraulics,GE Aerospace,05/26/2024,24.0,0,Completed,31520.32,77
+175,AC-6697,F-35A,Luke AFB,Landing Gear,GE Aerospace,10/03/2024,12.0,7,Completed,15840.89,78
+176,AC-9920,C-130,Eglin AFB,Software Update,Northrop,08/25/2024,3.0,0,Completed,25577.02,100
+177,AC-4943,F-22,Fort Worth,Engine Repair,L3Harris,2024-11-10,20.0,1,Completed,32663.11,74
+178,AC-9843,F-22,Fort Worth,Avionics,L3Harris,08/12/2024,4.0,4,In Progress,10467.81,90
+179,AC-4881,F-16,Luke AFB,Electrical,L3Harris,02/23/2025,12.0,N/A,Delayed,14675.04,83
+180,AC-6642,C-130,Eglin AFB,Hydraulics,GE Aerospace,09/10/2024,14.0,9,Awaiting Parts,18077.3,72
+181,AC-8586,F-35A,Eglin AFB,Software Update,GE Aerospace,03/15/2025,24.0,0,Delayed,31357.65,73
+182,AC-2514,B-2,Luke AFB,Engine Repair,Boeing,08/18/2024,29.0,N/A,Completed,15437.26,71
+183,AC-4555,C-130,Luke AFB,Hydraulics,Boeing,01/05/2025,,4,Completed,29453.75,79
+184,AC-4350,C-130,Luke AFB,Landing Gear,Boeing,04/13/2025,13.0,5,In Progress,23131.87,80
+185,AC-8635,F-35A,Nellis AFB,Hydraulics,Northrop ,03/27/2025,27.0,6,Delayed,29051.23,69
+186,AC-7841,F-16,Luke AFB,Avionics,Boeing,10/10/2024,14.0,3,In Progress,19809.3,87
+187,AC-9037,C-130,Luke AFB,Electrical,Boeing,2025-05-09,21.0,3,Completed,28477.3,81
+188,AC-1794,F-35A,Nellis AFB,Avionics,Northrop,2024-02-08,34.0,8,Awaiting Parts,21087.72,63
+189,AC-8916,C-130,Fort Worth,Engine Repair,L3Harris,12/07/2024,,3,In Progress,542.51,74
+190,AC-8054,F-22,Fort Worth,Engine Repair,L3Harris,2024-09-14,9.0,0,In Progress,20781.84,96
+191,AC-8520,B-2,Luke AFB,Electrical,Northrop,07/10/2024,18.0,11,Completed,28923.13,72
+192,AC-1919,F-35A,Luke AFB,Engine Repair,GE Aerospace,10/09/2024,16.0,8,Completed,1533.62,78
+193,AC-8790,F-16,Fort Worth,engine repair,Boeing,04/27/2024,19.0,N/A,In Progress,7256.97,71
+194,AC-2260,F-16,Luke AFB,Landing Gear,Northrop,03/14/2024,27.0,6,In Progress,20016.55,68
+195,AC-9204,F-16,Fort Worth,Engine Repair,GE Aerospace,02/08/2025,23.0,14,Awaiting Parts,27182.4,59
+196,AC-8381,C-130,Luke AFB,Hydraulics,L3Harris,11/20/2024,19.0,3,Awaiting Parts,14801.87,77
+197,AC-2204,F-35A,Hill AFB,Avionics,GE Aerospace,02/12/2025,24.0,1,In Progress,25858.79,73
+198,AC-8286,F-16,Hill AFB,Engine Repair,Northrop,2025-04-27,14.0,6,Awaiting Parts,29003.95,79
+199,AC-6315,C-130,Fort Worth,Hydraulics,GE Aerospace,10/10/2024,26.0,2,Delayed,21761.5,68
+200,AC-3274,F-16,Hill AFB,Hydraulics,GE Aerospace,2024-07-13,10.0,3,In Progress,29527.61,84
+201,AC-9123,B-2,Eglin AFB,Avionics,GE Aerospace,2024-05-08,24.0,1,In Progress,35435.27,73
+202,AC-8212,F-16,Nellis AFB,Electrical,L3Harris,2025-03-17,28.0,6,Delayed,47521.55,66
+203,AC-5775,C-130,Eglin AFB,Avionics,Boeing,07/22/2024,11.0,0,Completed,3655.36,89
+204,AC-1440,C-130,Luke AFB,Software Update,Boeing,10/06/2024,29.0,7,Awaiting Parts,24332.98,61
+205,AC-5139,F-22,Nellis AFB,Software Update,Raytheon,06/04/2024,20.0,0,Awaiting Parts,54349.02,78
+206,AC-2392,F-35A,Luke AFB,Electrical,Boeing,2024-07-03,19.0,5,Awaiting Parts,33709.2,79
+207,AC-2735,F-35A,Fort Worth,Hydraulics,Northrop,02/11/2025,21.0,5,Delayed,15514.31,75
+208,AC-9199,F-22,Hill AFB,Engine Repair,GE Aerospace,2025-01-30,21.0,12,Completed,41145.04,72
+209,AC-6620,C-130,Luke AFB,Landing Gear,GE Aerospace,06/27/2024,30.0,2,Awaiting Parts,13124.74,67
+210,AC-1370,F-16,Fort Worth,Electrical,Northrop,02/18/2025,16.0,5,Delayed,38130.3,75
+211,AC-7636,F-22,Luke AFB,Electrical,GE Aerospace,08/24/2024,4.0,11,Awaiting Parts,23103.91,83
+212,AC-4371,F-16,Fort Worth,Landing Gear,Raytheon,12/26/2024,14.0,0,Delayed,5141.72,84
+213,AC-9646,F-16,Eglin AFB,Software Update,L3Harris,03/17/2025,24.0,5,Awaiting Parts,9520.47,73
+214,AC-2388,F-22,Hill AFB,Engine Repair,Northrop,12/27/2024,7.0,3,Awaiting Parts,45028.26,89
+215,AC-4043,C-130,Eglin AFB,Electrical,Northrop,07/15/2024,15.0,0,In Progress,22051.08,86
+216,AC-1157,C-130,Luke AFB,Avionics,GE Aerospace,03/19/2025,15.0,0,Awaiting Parts,24348.46,85
+217,AC-2354,B-2,Fort Worth,Avionics,Boeing,2024-09-07,16.0,7,Awaiting Parts,47187.47,74
+218,AC-9369,F-35A,Eglin AFB,Engine Repair,Boeing,09/10/2024,27.0,3,Completed,11721.69,73
+219,AC-2677,F-22,Hill AFB,Engine Repair,GE Aerospace,04/21/2024,38.0,5,Completed,25167.15,58
+220,AC-6744,B-2,Nellis AFB,Avionics,L3Harris,2025-02-19,17.0,5,Completed,23267.68,82
+221,AC-3758,F-16,Hill AFB,Hydraulics,L3Harris,11/01/2024,13.0,2,Completed,24606.96,88
+222,AC-5543,F-22,Luke AFB,Avionics,Northrop,07/29/2024,13.0,2,Awaiting Parts,26277.16,80
+223,AC-7786,C-130,Nellis AFB,Engine Repair,Raytheon,05/17/2024,15.0,11,In Progress,6811.64,79
+224,AC-2526,C-130,Hill AFB,Engine Repair,L3Harris,10/24/2024,26.0,9,Awaiting Parts,119.32,60
+225,AC-3139,B-2,Nellis AFB,Hydraulics,Raytheon,2024-06-21,15.0,3,Completed,8109.86,85
+226,AC-1011,C-130,Luke AFB,Electrical,Northrop,08/13/2024,11.0,0,In Progress,46027.25,91
+227,AC-3711,F-35A,Nellis AFB,Electrical,Boeing ,02/12/2024,25.0,10,Completed,33660.06,65
+228,AC-3174,B-2,Luke AFB,Landing Gear,GE Aerospace,2024-09-01,8.0,2,Awaiting Parts,30872.49,86
+229,AC-2463,F-35A,Fort Worth,Hydraulics,Boeing,04/27/2024,8.0,7,Delayed,22116.1,86
+230,AC-1138,B-2,Luke AFB,Software Update,Boeing,02/05/2024,15.0,7,Awaiting Parts,30331.16,81
+231,AC-2646,F-22,Fort Worth,Landing Gear,GE Aerospace,04/21/2024,15.0,9,Delayed,12027.24,72
+232,AC-5668,F-35A,Hill AFB,Avionics,L3Harris,10/10/2024,22.0,7,Completed,21285.44,75
+233,AC-7322,F-35A,Luke AFB,Software Update,L3Harris,2024-05-02,20.0,N/A,In Progress,36088.32,82
+234,AC-7895,F-16,Eglin AFB,Electrical,Northrop ,03/16/2025,16.0,2,Completed,37588.11,86
+235,AC-1990,C-130,Eglin AFB,Hydraulics,L3Harris,04/20/2024,12.0,0,Delayed,6320.45,83
+236,AC-3545,B-2,Hill AFB,Software Update,L3Harris,09/18/2024,22.0,0,Completed,46057.53,76
+237,AC-1948,F-22,Fort Worth,Software Update,Raytheon,05/03/2025,1.0,11,Delayed,27532.21,86
+238,AC-3684,C-130,Hill AFB,Landing Gear,L3Harris,12/25/2024,17.0,2,Delayed,29789.63,76
+239,AC-1480,F-16,Nellis AFB,Hydraulics,L3Harris,2025-01-10,17.0,9,Completed,26370.73,70
+240,AC-3734,F-16,Luke AFB,Hydraulics,Raytheon,01/29/2024,19.0,3,Completed,24316.65,80
+241,AC-8729,F-16,Nellis AFB,Avionics,Northrop,05/05/2024,20.0,0,Awaiting Parts,8821.77,75
+242,AC-5444,F-35A,Eglin AFB,Hydraulics,Raytheon,04/13/2025,23.0,5,Completed,22792.2,72
+243,AC-6090,F-16,Fort Worth,Landing Gear,GE Aerospace,2024-08-26,18.0,6,In Progress,18522.88,75
+244,AC-9083,F-22,Eglin AFB,Avionics,Northrop,2024-07-07,11.0,5,In Progress,13259.53,88
+245,AC-1023,C-130,Hill AFB,Engine Repair,Northrop,01/05/2024,21.0,0,Completed,37349.87,79
+246,AC-1719,F-22,Eglin AFB,Software Update,Boeing,05/23/2024,21.0,6,Delayed,36792.29,69
+247,AC-2020,C-130,Luke AFB,Avionics,Boeing,10/30/2024,31.0,9,In Progress,2909.51,64
+248,AC-3230,B-2,Fort Worth,Avionics,Raytheon,2024-02-08,7.0,2,In Progress,25313.09,89
+249,AC-5341,F-35A,Fort Worth,Avionics,Boeing,06/06/2024,22.0,N/A,In Progress,27241.2,78
+250,AC-7492,B-2,Fort Worth,Electrical,Boeing,05/10/2025,11.0,N/A,Awaiting Parts,8120.07,87
+251,AC-2551,C-130,Fort Worth,Avionics,Raytheon,2024-10-08,10.0,0,Delayed,13289.52,88
+252,AC-2376,B-2,Eglin AFB,Hydraulics,Raytheon,2024-12-17,26.0,1,Awaiting Parts,56588.58,78
+253,AC-3007,F-35A,Nellis AFB,engine repair,Northrop,03/09/2025,21.0,5,Awaiting Parts,14699.71,74
+254,AC-4517,F-22,Hill AFB,Hydraulics,GE Aerospace,03/29/2024,,2,Delayed,26464.12,75
+255,AC-8848,F-35A,Fort Worth,Hydraulics,GE Aerospace,2025-03-27,38.0,4,Delayed,38791.28,61
+256,AC-7266,F-16,Nellis AFB,Landing Gear,GE Aerospace,02/10/2025,12.0,4,In Progress,46249.61,79
+257,AC-5602,F-35A,Nellis AFB,Landing Gear,Boeing,04/22/2024,12.0,12,Completed,33493.02,71
+258,AC-4594,B-2,Nellis AFB,Hydraulics,Northrop ,2024-09-30,13.0,7,In Progress,36670.65,75
+259,AC-3328,B-2,Luke AFB,Software Update,L3Harris ,12/24/2024,22.0,0,Delayed,16274.35,78
+260,AC-6435,B-2,Luke AFB,Avionics,Boeing,09/01/2024,16.0,4,In Progress,32448.07,75
+261,AC-2817,B-2,Hill AFB,Engine Repair,Boeing,12/26/2024,19.0,0,In Progress,29562.37,78
+262,AC-8982,F-16,Luke AFB,Electrical,L3Harris,03/21/2024,22.0,7,Delayed,37969.37,72
+263,AC-5825,F-22,Luke AFB,Electrical,Raytheon,07/12/2024,24.0,6,Completed,24158.01,69
+264,AC-4619,B-2,Fort Worth,Software Update,Northrop,02/18/2025,4.0,6,In Progress,27492.25,94
+265,AC-6500,C-130,Fort Worth,Hydraulics,Northrop,02/15/2024,20.0,0,Completed,12027.32,85
+266,AC-3725,C-130,Nellis AFB,Software Update,Boeing,08/12/2024,26.0,4,Delayed,33178.01,71
+267,AC-5831,F-35A,Hill AFB,Hydraulics,Raytheon,2025-03-09,18.0,5,Completed,36259.41,72
+268,AC-8909,F-35A,Nellis AFB,Electrical,Northrop,02/17/2024,13.0,N/A,In Progress,19452.7,82
+269,AC-9849,F-16,Hill AFB,Hydraulics,Northrop,2024-12-22,14.0,3,Awaiting Parts,27665.61,86
+270,AC-5825,B-2,Nellis AFB,Avionics,Raytheon,2024-08-06,14.0,10,Completed,14264.71,72
+271,AC-8715,C-130,Hill AFB,Engine Repair,L3Harris,02/05/2025,16.0,3,Delayed,42363.73,82
+272,AC-4706,F-16,Eglin AFB,Engine Repair,Northrop,08/26/2024,19.0,9,In Progress,7173.28,71
+273,AC-4727,B-2,Fort Worth,Software Update,L3Harris,01/22/2025,20.0,8,Awaiting Parts,25987.41,76
+274,AC-7468,F-35A,Eglin AFB,Landing Gear,L3Harris,06/02/2024,26.0,2,Completed,41912.17,68
+275,AC-4471,F-22,Luke AFB,Engine Repair,GE Aerospace,2025-04-30,36.0,3,Delayed,19653.97,58
+276,AC-2425,C-130,Eglin AFB,Software Update,L3Harris,04/11/2025,29.0,11,Completed,18725.68,56
+277,AC-2843,C-130,Luke AFB,Avionics,L3Harris,09/24/2024,14.0,3,Completed,8866.59,84
+278,AC-6633,C-130,Hill AFB,Software Update,GE Aerospace,05/26/2024,10.0,0,Awaiting Parts,15786.43,93
+279,AC-1635,C-130,Hill AFB,electrical,Northrop,2024-12-21,17.0,5,In Progress,43606.01,79
+280,AC-5593,C-130,Fort Worth,Avionics,Northrop,06/04/2024,10.0,8,In Progress,22432.13,81
+281,AC-4079,C-130,Luke AFB,Software Update,GE Aerospace,11/26/2024,17.0,7,Delayed,11527.34,72
+282,AC-9589,B-2,Fort Worth,Avionics,Northrop,07/25/2024,21.0,N/A,Completed,30909.42,71
+283,AC-5488,F-16,Nellis AFB,Landing Gear,GE Aerospace,12/26/2024,20.0,N/A,In Progress,17347.12,64
+284,AC-6730,F-16,Luke AFB,Hydraulics,Raytheon,05/06/2025,13.0,2,Delayed,18334.27,87
+285,AC-5408,C-130,Eglin AFB,Engine Repair,Raytheon,12/12/2024,12.0,9,Completed,42046.05,77
+286,AC-5511,C-130,Nellis AFB,Hydraulics,GE Aerospace ,04/27/2025,13.0,1,Awaiting Parts,30656.99,85
+287,AC-5631,F-16,Fort Worth,Software Update,Raytheon,12/05/2024,13.0,7,In Progress,27435.08,80
+288,AC-5895,F-22,Luke AFB,Landing Gear,Northrop,04/01/2025,5.0,11,Awaiting Parts,46550.53,89
+289,AC-9148,F-16,Hill AFB,Software Update,GE Aerospace,01/04/2025,,3,Delayed,28430.38,79
+290,AC-8794,F-16,Eglin AFB,Hydraulics,Northrop,12/17/2024,20.0,7,Completed,49122.45,76
+291,AC-3999,F-16,Fort Worth,Avionics,Boeing,01/06/2025,16.0,1,In Progress,8448.17,86
+292,AC-8709,F-35A,Eglin AFB,Landing Gear,L3Harris,2024-08-25,12.0,4,Awaiting Parts,46534.69,80
+293,AC-3250,F-22,Hill AFB,Software Update,L3Harris,03/21/2025,13.0,5,Delayed,24802.93,79
+294,AC-6134,F-35A,Fort Worth,Software Update,Boeing,11/19/2024,27.0,15,Delayed,18629.57,55
+295,AC-8105,C-130,Nellis AFB,Software Update,GE Aerospace,02/15/2024,,9,In Progress,33182.7,74
+296,AC-4122,F-35A,Fort Worth,Electrical,Northrop,01/22/2025,32.0,7,Completed,20688.49,64
+297,AC-1749,F-16,Hill AFB,Software Update,L3Harris,03/26/2024,22.0,9,Delayed,34845.79,65
+298,AC-3701,C-130,Fort Worth,Avionics,Northrop,07/02/2024,22.0,9,Delayed,39031.55,67
+299,AC-7147,F-16,Eglin AFB,Landing Gear,Raytheon,02/09/2025,,7,Completed,22994.58,59
+300,AC-3024,B-2,Hill AFB,Software Update,Northrop,08/15/2024,19.0,N/A,Awaiting Parts,15196.77,73
+301,AC-3247,C-130,Fort Worth,Landing Gear,L3Harris,2024-05-18,20.0,3,Delayed,25344.94,81
+302,AC-4304,F-16,Nellis AFB,Hydraulics,Northrop ,2025-03-01,28.0,5,Awaiting Parts,25557.24,70
+303,AC-2809,B-2,Nellis AFB,Avionics,Raytheon,12/09/2024,7.0,7,In Progress,32745.81,82
+304,AC-5327,C-130,Fort Worth,Engine Repair,Northrop,05/15/2025,35.0,3,In Progress,27629.8,61
+305,AC-1158,F-22,Luke AFB,Hydraulics,Boeing,03/11/2025,19.0,11,Completed,23856.45,65
+306,AC-7557,C-130,Hill AFB,Software Update,GE Aerospace,02/28/2024,20.0,7,Completed,27239.31,74
+307,AC-2699,C-130,Eglin AFB,Software Update,L3Harris,04/27/2025,14.0,5,In Progress,37883.58,78
+308,AC-8914,C-130,Fort Worth,Software Update,GE Aerospace,2025-03-26,9.0,5,Delayed,16598.55,83
+309,AC-9570,B-2,Fort Worth,Software Update,Northrop,06/22/2024,27.0,0,Delayed,18292.94,76
+310,AC-1190,F-22,Eglin AFB,Software Update,GE Aerospace,11/09/2024,21.0,11,Delayed,24211.0,63
+311,AC-7203,C-130,Luke AFB,Engine Repair,GE Aerospace,09/16/2024,13.0,12,Awaiting Parts,7623.83,73
+312,AC-1291,F-35A,Nellis AFB,Software Update,Raytheon,09/11/2024,,6,In Progress,18975.35,99
+313,AC-8474,F-16,Hill AFB,Engine Repair,Northrop,12/01/2024,9.0,7,Awaiting Parts,27925.61,89
+314,AC-2596,F-22,Fort Worth,Hydraulics,Boeing,08/19/2024,13.0,0,In Progress,35469.49,83
+315,AC-3301,C-130,Fort Worth,Hydraulics,L3Harris,2024-03-25,23.0,4,Delayed,47159.64,75
+316,AC-2765,C-130,Fort Worth,Electrical,L3Harris ,2025-01-01,9.0,0,Delayed,16697.1,91
+317,AC-8091,B-2,Nellis AFB,Landing Gear,Northrop,01/11/2025,17.0,5,Completed,22105.17,73
+318,AC-9259,C-130,Nellis AFB,Landing Gear,Northrop,03/27/2025,20.0,0,Awaiting Parts,42325.18,80
+319,AC-5897,B-2,Hill AFB,Electrical,L3Harris,11/04/2024,17.0,9,In Progress,29112.7,77
+320,AC-3913,B-2,Eglin AFB,Electrical,Boeing,03/08/2024,21.0,7,Awaiting Parts,30372.5,77
+321,AC-7920,F-35A,Eglin AFB,Engine Repair,Raytheon,09/30/2024,23.0,N/A,In Progress,27358.25,66
+322,AC-5105,F-22,Fort Worth,Electrical,Boeing,05/26/2024,23.0,4,Awaiting Parts,42281.41,78
+323,AC-4675,B-2,Nellis AFB,Avionics,L3Harris,01/13/2025,12.0,12,Completed,24518.1,79
+324,AC-6122,B-2,Fort Worth,Engine Repair,Boeing,05/04/2025,6.0,5,Awaiting Parts,16827.38,94
+325,AC-7025,B-2,Eglin AFB,Electrical,L3Harris,2024-12-26,24.0,2,Awaiting Parts,19645.8,79
+326,AC-9418,F-35A,Nellis AFB,engine repair,GE Aerospace,04/05/2024,2.0,3,In Progress,4086.55,92
+327,AC-1654,F-22,Hill AFB,Landing Gear,Raytheon,04/24/2025,5.0,8,In Progress,34429.6,84
+328,AC-6207,B-2,Luke AFB,Avionics,L3Harris,2024-07-02,21.0,1,Awaiting Parts,24427.46,74
+329,AC-6437,F-16,Hill AFB,Hydraulics,Northrop,04/19/2024,17.0,0,Completed,43040.78,88
+330,AC-4994,F-35A,Hill AFB,Software Update,Raytheon,05/03/2024,25.0,4,In Progress,25322.63,76
+331,AC-5856,F-22,Hill AFB,Landing Gear,Raytheon,09/06/2024,19.0,0,Completed,22033.87,76
+332,AC-7950,F-35A,Luke AFB,landing gear,GE Aerospace,11/18/2024,12.0,0,Delayed,21626.8,86
+333,AC-2200,F-35A,Luke AFB,Hydraulics,L3Harris,2024-01-20,32.0,7,Awaiting Parts,18145.85,57
+334,AC-1276,C-130,Fort Worth,Landing Gear,Raytheon,08/09/2024,22.0,10,Completed,36095.6,68
+335,AC-2738,F-16,Hill AFB,Landing Gear,Raytheon,04/20/2025,18.0,2,Completed,33378.68,83
+336,AC-9941,F-16,Luke AFB,Hydraulics,Boeing ,03/10/2024,,8,Delayed,32622.06,72
+337,AC-9800,B-2,Fort Worth,Hydraulics,Northrop,11/01/2024,26.0,2,Awaiting Parts,40808.73,73
+338,AC-4014,F-22,Eglin AFB,Hydraulics,Northrop,2024-03-13,19.0,13,Completed,16729.75,65
+339,AC-2198,F-16,Fort Worth,Hydraulics,Raytheon,2024-10-08,31.0,5,In Progress,17182.98,66
+340,AC-2143,F-22,Hill AFB,Software Update,GE Aerospace,02/21/2024,14.0,3,Delayed,30089.99,82
+341,AC-3762,F-35A,Hill AFB,Avionics,Northrop,06/10/2024,22.0,2,In Progress,24707.74,77
+342,AC-8583,C-130,Hill AFB,Hydraulics,GE Aerospace,03/25/2025,35.0,11,In Progress,30235.88,56
+343,AC-5312,F-35A,Fort Worth,Engine Repair,L3Harris,10/02/2024,18.0,5,Delayed,32362.22,75
+344,AC-8734,F-22,Hill AFB,Software Update,Northrop,10/05/2024,9.0,3,Delayed,4976.99,91
+345,AC-9227,F-35A,Luke AFB,Landing Gear,Northrop,07/22/2024,21.0,7,Delayed,19201.76,72
+346,AC-4585,C-130,Luke AFB,Engine Repair,Boeing,07/02/2024,,0,In Progress,7427.5,65
+347,AC-1653,F-16,Fort Worth,Electrical,L3Harris,03/27/2025,19.0,9,Delayed,45207.13,67
+348,AC-2275,B-2,Hill AFB,Software Update,Northrop,10/27/2024,14.0,9,Awaiting Parts,24537.9,82
+349,AC-3276,C-130,Luke AFB,Avionics,Raytheon,01/04/2024,16.0,8,Delayed,32827.87,79
+350,AC-4773,C-130,Hill AFB,Electrical,Raytheon,03/01/2024,5.0,10,Delayed,41561.1,90
+351,AC-3095,B-2,Eglin AFB,Avionics,Northrop,05/04/2024,,6,Completed,30928.36,77
+352,AC-1305,F-16,Fort Worth,Avionics,GE Aerospace,09/21/2024,20.0,2,Delayed,16940.52,79
+353,AC-3979,B-2,Eglin AFB,Hydraulics,Northrop,02/10/2025,17.0,9,Completed,31523.2,78
+354,AC-4315,B-2,Eglin AFB,Electrical,GE Aerospace,02/25/2024,15.0,8,Completed,9182.51,72
+355,AC-2526,C-130,Luke AFB,Landing Gear,L3Harris,01/20/2025,27.0,0,Awaiting Parts,20650.71,69
+356,AC-8028,F-22,Nellis AFB,Software Update,Boeing,01/23/2024,9.0,0,Completed,38929.92,94
+357,AC-2373,F-16,Eglin AFB,Landing Gear,GE Aerospace,01/27/2025,,6,Completed,24436.95,78
+358,AC-4365,F-16,Nellis AFB,Hydraulics,Raytheon,2024-01-04,21.0,5,Awaiting Parts,9604.09,75
+359,AC-4337,C-130,Eglin AFB,Landing Gear,GE Aerospace,2024-12-14,25.0,3,In Progress,6321.02,73
+360,AC-2951,F-22,Nellis AFB,Electrical,Northrop,2024-07-22,14.0,11,Completed,35202.66,72
+361,AC-3381,C-130,Eglin AFB,Software Update,Raytheon,2024-01-03,15.0,3,Completed,21140.38,78
+362,AC-9536,F-16,Eglin AFB,Engine Repair,Northrop,07/24/2024,34.0,6,In Progress,30160.5,64
+363,AC-4795,B-2,Luke AFB,Electrical,Raytheon,09/18/2024,26.0,5,Completed,21891.49,72
+364,AC-7474,C-130,Eglin AFB,Avionics,L3Harris,2024-06-29,16.0,4,In Progress,24553.33,85
+365,AC-6693,F-16,Luke AFB,Landing Gear,Northrop,10/25/2024,23.0,N/A,Delayed,33791.68,72
+366,AC-5821,F-16,Fort Worth,Landing Gear,Boeing,02/07/2024,17.0,5,Awaiting Parts,1021.59,81
+367,AC-6565,C-130,Nellis AFB,Landing Gear,Raytheon,01/29/2025,25.0,6,Delayed,36976.12,67
+368,AC-6785,B-2,Eglin AFB,Engine Repair,Boeing,06/10/2024,5.0,13,In Progress,23324.92,83
+369,AC-6792,F-22,Eglin AFB,Hydraulics,Northrop,08/31/2024,26.0,0,Awaiting Parts,32353.29,74
+370,AC-4387,F-22,Luke AFB,Avionics,L3Harris,05/03/2024,9.0,2,Completed,47968.38,88
+371,AC-9871,F-35A,Nellis AFB,Hydraulics,L3Harris,11/10/2024,16.0,5,In Progress,35440.81,74
+372,AC-5591,C-130,Luke AFB,Landing Gear,Northrop,2025-04-13,21.0,5,Completed,29379.53,77
+373,AC-8490,F-35A,Eglin AFB,Software Update,Boeing,12/17/2024,,4,Completed,27413.19,56
+374,AC-9987,F-16,Luke AFB,Hydraulics,GE Aerospace,05/12/2024,26.0,9,Awaiting Parts,39244.36,62
+375,AC-7563,F-16,Nellis AFB,Avionics,L3Harris,2024-07-09,23.0,0,Completed,44601.18,77
+376,AC-7240,F-22,Luke AFB,Electrical,Northrop,10/11/2024,,6,Delayed,15948.69,87
+377,AC-6172,C-130,Hill AFB,Hydraulics,L3Harris,09/21/2024,,6,Delayed,28856.29,80
+378,AC-2577,C-130,Hill AFB,hydraulics,Boeing,08/31/2024,21.0,11,In Progress,30442.41,73
+379,AC-4259,B-2,Eglin AFB,Electrical,L3Harris,2025-03-20,16.0,8,Awaiting Parts,39273.65,81
+380,AC-5694,C-130,Luke AFB,Avionics,Boeing,02/10/2024,8.0,7,Completed,33414.07,86
+381,AC-5773,F-16,Eglin AFB,Electrical,GE Aerospace,06/09/2024,15.0,10,In Progress,23199.33,75
+382,AC-3741,F-22,Fort Worth,Avionics,Northrop,08/18/2024,19.0,4,Completed,25186.95,78
+383,AC-8752,B-2,Fort Worth,Engine Repair,GE Aerospace,02/18/2024,9.0,0,Delayed,44134.06,87
+384,AC-4757,F-22,Hill AFB,Software Update,Northrop,2024-07-18,11.0,N/A,In Progress,840.68,87
+385,AC-9856,F-16,Eglin AFB,Software Update,Northrop,08/31/2024,12.0,0,Awaiting Parts,44704.18,90
+386,AC-9576,B-2,Hill AFB,Hydraulics,GE Aerospace,10/15/2024,26.0,2,In Progress,52029.23,73
+387,AC-9574,F-22,Hill AFB,Hydraulics,GE Aerospace,01/06/2024,25.0,3,Awaiting Parts,4992.87,67
+388,AC-4788,F-35A,Eglin AFB,Hydraulics,Northrop,02/12/2025,36.0,0,Delayed,5255.22,63
+389,AC-4614,F-16,Fort Worth,Software Update,Northrop,02/28/2025,26.0,14,In Progress,41611.27,61
+390,AC-7765,F-22,Fort Worth,Avionics,Northrop,02/18/2025,22.0,7,In Progress,35240.99,70
+391,AC-3492,F-35A,Eglin AFB,Engine Repair,Northrop,06/13/2024,24.0,6,Awaiting Parts,26250.41,65
+392,AC-9086,F-22,Hill AFB,Software Update,Boeing,03/18/2024,17.0,1,Completed,21631.9,77
+393,AC-1918,F-16,Nellis AFB,Engine Repair,L3Harris,05/02/2025,4.0,4,Awaiting Parts,13136.91,89
+394,AC-7304,C-130,Luke AFB,Electrical,Raytheon,2025-01-28,9.0,5,Delayed,41704.03,84
+395,AC-3598,F-35A,Eglin AFB,Landing Gear,Raytheon,06/08/2024,25.0,0,Completed,13124.46,75
+396,AC-8113,F-16,Fort Worth,Avionics,Boeing,02/27/2024,25.0,1,Completed,22304.4,72
+397,AC-3539,F-16,Fort Worth,Avionics,Northrop,12/18/2024,22.0,1,Completed,26264.51,81
+398,AC-2759,F-22,Nellis AFB,Avionics,Boeing ,12/25/2024,7.0,2,Awaiting Parts,28837.38,94
+399,AC-3207,F-16,Fort Worth,Software Update,GE Aerospace,07/12/2024,5.0,6,Delayed,24764.35,89
+400,AC-3627,F-35A,Eglin AFB,Avionics,GE Aerospace,08/27/2024,22.0,5,Completed,41369.69,72
+401,AC-1306,B-2,Hill AFB,Landing Gear,Northrop,01/10/2025,19.0,3,Awaiting Parts,26467.57,75
+402,AC-3525,B-2,Hill AFB,Hydraulics,GE Aerospace,01/27/2025,22.0,5,Completed,25487.1,76
+403,AC-4310,F-35A,Nellis AFB,Avionics,Raytheon,2024-04-01,12.0,2,Awaiting Parts,8168.74,81
+404,AC-7002,F-22,Eglin AFB,Electrical,Raytheon,2024-05-11,31.0,0,Completed,16685.14,64
+405,AC-7814,F-16,Fort Worth,Landing Gear,Boeing,07/03/2024,12.0,8,Completed,21460.6,83
+406,AC-4784,B-2,Nellis AFB,Avionics,Northrop,02/19/2024,27.0,2,Delayed,28347.93,67
+407,AC-6864,C-130,Nellis AFB,Engine Repair,Northrop,01/17/2025,11.0,13,Delayed,10748.82,72
+408,AC-6163,B-2,Hill AFB,Hydraulics,GE Aerospace,04/22/2025,20.0,7,Delayed,29965.59,73
+409,AC-5162,F-16,Nellis AFB,Software Update,GE Aerospace,2025-01-27,,4,Completed,25525.74,83
+410,AC-5920,F-22,Luke AFB,Hydraulics,Raytheon,06/03/2024,16.0,8,Delayed,51526.28,71
+411,AC-5341,F-16,Eglin AFB,Avionics,Northrop,03/20/2024,13.0,0,Delayed,23940.62,84
+412,AC-3832,C-130,Eglin AFB,Engine Repair,L3Harris,02/09/2025,,1,Awaiting Parts,44669.4,63
+413,AC-6700,C-130,Nellis AFB,Engine Repair,Northrop,01/29/2025,31.0,2,Awaiting Parts,31827.8,67
+414,AC-3450,F-16,Eglin AFB,Electrical,Northrop,2024-06-12,31.0,3,Awaiting Parts,22557.04,69
+415,AC-8076,F-16,Nellis AFB,Avionics,Northrop,02/16/2024,13.0,0,Awaiting Parts,17208.67,85
+416,AC-3209,C-130,Eglin AFB,Avionics,GE Aerospace,08/10/2024,8.0,5,Delayed,15760.32,84
+417,AC-2467,F-35A,Nellis AFB,Software Update,Boeing,08/08/2024,19.0,0,Completed,28970.56,81
+418,AC-8245,B-2,Luke AFB,Software Update,Raytheon,06/28/2024,24.0,0,Delayed,29488.68,80
+419,AC-4982,B-2,Luke AFB,hydraulics,Raytheon,02/27/2024,27.0,0,Awaiting Parts,45070.87,68
+420,AC-4339,B-2,Eglin AFB,Hydraulics,L3Harris,10/02/2024,21.0,2,Completed,24330.77,75
+421,AC-5185,F-22,Fort Worth,Hydraulics,Northrop,09/26/2024,22.0,N/A,Completed,31465.07,68
+422,AC-6901,F-35A,Fort Worth,Hydraulics,GE Aerospace,12/05/2024,10.0,5,Completed,8035.43,90
+423,AC-2442,F-22,Luke AFB,Landing Gear,GE Aerospace,11/01/2024,17.0,N/A,In Progress,16173.64,85
+424,AC-6681,F-16,Hill AFB,Electrical,Boeing,03/21/2024,27.0,9,Completed,32309.66,59
+425,AC-5590,F-22,Luke AFB,Hydraulics,GE Aerospace,03/31/2025,9.0,3,Delayed,39557.17,83
+426,AC-6395,C-130,Eglin AFB,Avionics,Northrop,08/06/2024,19.0,14,Delayed,29719.81,66
+427,AC-3215,C-130,Luke AFB,Electrical,L3Harris,12/27/2024,19.0,3,Completed,26602.49,81
+428,AC-6221,C-130,Nellis AFB,Hydraulics,GE Aerospace,03/15/2024,16.0,7,In Progress,36480.43,72
+429,AC-1429,B-2,Eglin AFB,Hydraulics,L3Harris,03/08/2024,11.0,0,Completed,2965.54,86
+430,AC-9230,B-2,Nellis AFB,Electrical,Boeing,2024-09-01,22.0,0,Delayed,834.69,75
+431,AC-5421,C-130,Luke AFB,Electrical,Northrop,01/26/2025,21.0,14,Awaiting Parts,24927.15,60
+432,AC-5043,C-130,Nellis AFB,Engine Repair,L3Harris,06/15/2024,24.0,5,Completed,23813.32,73
+433,AC-5025,B-2,Eglin AFB,Software Update,Raytheon,02/27/2025,25.0,3,Completed,28208.71,67
+434,AC-5684,C-130,Luke AFB,Software Update,Boeing,03/28/2025,20.0,2,Delayed,36904.51,77
+435,AC-2854,F-22,Eglin AFB,Electrical,L3Harris,2024-02-16,16.0,1,Delayed,31438.12,86
+436,AC-8449,F-35A,Hill AFB,Hydraulics,Northrop,04/03/2025,10.0,5,Awaiting Parts,24890.57,83
+437,AC-9383,B-2,Luke AFB,Software Update,L3Harris,12/28/2024,26.0,6,Delayed,24699.68,69
+438,AC-7874,F-16,Hill AFB,electrical,GE Aerospace,01/28/2025,24.0,10,Delayed,31693.72,61
+439,AC-9153,C-130,Eglin AFB,Engine Repair,L3Harris,01/07/2024,18.0,0,Awaiting Parts,12218.64,84
+440,AC-1107,F-22,Eglin AFB,Hydraulics,L3Harris,11/03/2024,15.0,2,Delayed,22756.34,87
+441,AC-1531,B-2,Eglin AFB,Hydraulics,Boeing,01/19/2024,,7,Delayed,24154.01,72
+442,AC-3906,C-130,Eglin AFB,Hydraulics,Raytheon,2024-12-04,21.0,5,Awaiting Parts,1294.4,78
+443,AC-2063,F-16,Nellis AFB,Avionics,Raytheon,03/07/2025,10.0,4,Delayed,10483.66,89
+444,AC-9666,F-35A,Nellis AFB,Electrical,L3Harris,02/25/2024,22.0,11,In Progress,39625.14,71
+445,AC-3125,B-2,Eglin AFB,Software Update,L3Harris,11/15/2024,16.0,10,Delayed,26784.01,74
+446,AC-1392,C-130,Fort Worth,Electrical,Northrop,01/01/2024,15.0,2,In Progress,21370.36,79
+447,AC-4296,F-16,Hill AFB,Engine Repair,Boeing,04/18/2024,14.0,5,Completed,26926.89,76
+448,AC-1477,F-22,Luke AFB,Hydraulics,Boeing,01/05/2025,18.0,6,Completed,39287.76,80
+449,AC-9797,F-16,Nellis AFB,Software Update,Raytheon ,11/17/2024,25.0,0,In Progress,5647.05,77
+450,AC-6434,F-16,Fort Worth,Avionics,Boeing,10/22/2024,25.0,0,Delayed,22302.82,80
+451,AC-6050,F-16,Fort Worth,Hydraulics,GE Aerospace,2024-10-31,8.0,0,In Progress,31497.55,88
+452,AC-1612,F-22,Fort Worth,Software Update,L3Harris,2024-02-27,24.0,2,Delayed,6092.51,74
+453,AC-6084,F-16,Luke AFB,Engine Repair,L3Harris,03/23/2025,13.0,6,Awaiting Parts,7253.06,84
+454,AC-6095,F-35A,Eglin AFB,engine repair,Boeing,02/29/2024,,4,In Progress,31951.5,72
+455,AC-6257,F-22,Luke AFB,Hydraulics,Boeing,11/23/2024,18.0,1,In Progress,39358.86,79
+456,AC-9422,F-35A,Luke AFB,Landing Gear,Boeing,01/08/2024,16.0,4,In Progress,13800.78,84
+457,AC-6549,B-2,Nellis AFB,Engine Repair,Northrop,2024-06-08,14.0,N/A,Awaiting Parts,22924.65,89
+458,AC-8304,B-2,Hill AFB,Hydraulics,Boeing,04/01/2024,31.0,0,Completed,5637.26,73
+459,AC-3159,F-35A,Nellis AFB,Engine Repair,GE Aerospace,08/26/2024,29.0,4,Awaiting Parts,16971.13,71
+460,AC-5227,F-16,Nellis AFB,Avionics,Boeing,03/16/2025,26.0,2,Completed,46912.12,76
+461,AC-3798,F-16,Hill AFB,Landing Gear,L3Harris,2024-09-02,23.0,3,Completed,50887.7,76
+462,AC-9728,C-130,Nellis AFB,Landing Gear,GE Aerospace,02/09/2025,13.0,7,Awaiting Parts,28591.51,79
+463,AC-8063,C-130,Eglin AFB,Hydraulics,L3Harris,02/20/2025,28.0,11,Awaiting Parts,25384.05,65
+464,AC-2599,C-130,Luke AFB,Hydraulics,GE Aerospace,2024-06-15,11.0,6,Awaiting Parts,16867.42,86
+465,AC-4565,F-22,Eglin AFB,Electrical,Raytheon,02/01/2024,34.0,5,In Progress,20616.14,57
+466,AC-6187,F-16,Eglin AFB,Electrical,Boeing,04/10/2024,19.0,0,In Progress,13340.63,79
+467,AC-7622,F-22,Hill AFB,Engine Repair,Boeing,11/09/2024,27.0,N/A,In Progress,12437.07,74
+468,AC-8073,B-2,Nellis AFB,Electrical,Boeing,01/16/2024,22.0,9,Delayed,33627.44,67
+469,AC-7301,F-16,Nellis AFB,Avionics,Boeing,04/06/2024,25.0,1,Completed,7938.27,77
+470,AC-8155,F-22,Fort Worth,Avionics,GE Aerospace,03/29/2025,30.0,3,Awaiting Parts,21990.0,69
+471,AC-8373,C-130,Hill AFB,Avionics,Northrop,08/05/2024,,7,Delayed,30470.65,68
+472,AC-7012,F-35A,Fort Worth,Landing Gear,GE Aerospace,04/19/2025,35.0,2,Completed,36134.08,66
+473,AC-8617,B-2,Fort Worth,Landing Gear,L3Harris,2025-03-15,18.0,6,Completed,43341.62,75
+474,AC-1864,F-16,Eglin AFB,Engine Repair,GE Aerospace,10/23/2024,22.0,7,In Progress,37870.09,70
+475,AC-5738,F-22,Fort Worth,Electrical,L3Harris,02/12/2025,15.0,1,Completed,12462.29,83
+476,AC-5780,B-2,Fort Worth,Hydraulics,GE Aerospace,2024-10-20,2.0,13,In Progress,11761.5,80
+477,AC-1232,F-35A,Eglin AFB,Avionics,L3Harris,05/20/2024,16.0,3,Delayed,28688.88,80
+478,AC-9640,F-35A,Hill AFB,Engine Repair,Northrop,09/05/2024,24.0,8,Awaiting Parts,18003.07,65
+479,AC-3740,F-22,Eglin AFB,Electrical,Boeing,2024-08-13,16.0,6,Completed,22015.71,83
+480,AC-9724,F-22,Nellis AFB,Electrical,GE Aerospace,06/03/2024,30.0,6,Completed,33818.53,66
+481,AC-6172,B-2,Fort Worth,Engine Repair,L3Harris,07/14/2024,23.0,9,In Progress,27172.26,73
+482,AC-7408,C-130,Luke AFB,Electrical,L3Harris ,02/20/2024,7.0,6,Delayed,17183.72,86
+483,AC-1195,C-130,Fort Worth,Landing Gear,Raytheon ,01/05/2024,13.0,7,In Progress,39859.4,76
+484,AC-4552,B-2,Fort Worth,Electrical,Raytheon,2024-02-17,18.0,6,Delayed,45426.58,71
+485,AC-8650,F-35A,Nellis AFB,Hydraulics,GE Aerospace,05/09/2024,19.0,15,In Progress,31786.12,65
+486,AC-7271,C-130,Hill AFB,Engine Repair,Boeing,02/01/2025,3.0,8,Awaiting Parts,29573.9,84
+487,AC-9061,F-35A,Luke AFB,Landing Gear,GE Aerospace,07/20/2024,28.0,7,In Progress,23338.53,62
+488,AC-8305,F-35A,Nellis AFB,Avionics,Raytheon,10/19/2024,8.0,4,In Progress,14793.75,87
+489,AC-8833,C-130,Nellis AFB,Electrical,Raytheon,09/20/2024,,7,Awaiting Parts,45038.85,82
+490,AC-5961,C-130,Fort Worth,Electrical,Raytheon,07/02/2024,21.0,0,Awaiting Parts,30335.23,79
+491,AC-1644,C-130,Luke AFB,Hydraulics,GE Aerospace,04/13/2024,27.0,2,Completed,23391.79,68
+492,AC-1584,F-22,Fort Worth,Electrical,L3Harris,04/07/2024,18.0,1,In Progress,32779.37,78
+493,AC-1268,F-35A,Hill AFB,Engine Repair,Boeing,02/19/2025,,6,Awaiting Parts,14350.09,79
+494,AC-4817,F-35A,Fort Worth,Electrical,Northrop,10/01/2024,,7,Completed,20526.0,76
+495,AC-1818,F-16,Fort Worth,Software Update,L3Harris,2024-01-08,31.0,3,Completed,27696.22,63
+496,AC-2033,F-22,Nellis AFB,Hydraulics,GE Aerospace,11/11/2024,25.0,0,Delayed,3870.29,73
+497,AC-3841,F-16,Fort Worth,Engine Repair,Boeing,2024-04-19,5.0,10,Delayed,18377.7,80
+498,AC-2637,B-2,Nellis AFB,Avionics,Raytheon,01/21/2024,38.0,N/A,Completed,27214.62,57
+499,AC-8798,F-22,Luke AFB,Avionics,Boeing,05/25/2024,30.0,13,Completed,49738.04,58
+500,AC-5934,F-16,Nellis AFB,Engine Repair,L3Harris,11/09/2024,27.0,9,Completed,32110.32,60
+501,AC-4592,C-130,Luke AFB,Hydraulics,Raytheon,2024-10-03,24.0,2,Awaiting Parts,15181.61,77
+502,AC-1885,F-16,Hill AFB,Avionics,GE Aerospace,04/17/2025,17.0,4,Awaiting Parts,19561.26,74
+503,AC-3881,F-22,Fort Worth,Software Update,L3Harris,2025-04-18,23.0,8,In Progress,26060.88,72
+504,AC-4769,F-35A,Hill AFB,Avionics,Raytheon,04/04/2025,29.0,0,Delayed,22676.09,71
+505,AC-3374,F-22,Eglin AFB,Software Update,Northrop,01/28/2024,12.0,0,In Progress,24007.83,89
+506,AC-1977,F-16,Luke AFB,Engine Repair,GE Aerospace,03/06/2024,17.0,11,In Progress,32569.74,67
+507,AC-3784,B-2,Eglin AFB,Avionics,Raytheon,11/22/2024,9.0,12,Delayed,39652.4,83
+508,AC-8014,F-22,Luke AFB,Hydraulics,GE Aerospace,05/22/2024,22.0,4,Delayed,13486.73,69
+509,AC-1656,C-130,Eglin AFB,Engine Repair,GE Aerospace,08/01/2024,15.0,9,Completed,47615.04,71
+510,AC-7662,F-22,Luke AFB,Hydraulics,Boeing,10/12/2024,30.0,N/A,In Progress,11564.59,62
+511,AC-1399,C-130,Nellis AFB,Avionics,GE Aerospace,2024-10-19,19.0,0,Completed,28878.01,85
+512,AC-9698,F-35A,Hill AFB,Software Update,Boeing,04/02/2025,16.0,3,Delayed,5863.56,81
+513,AC-1898,B-2,Hill AFB,Engine Repair,Raytheon,03/26/2025,22.0,N/A,In Progress,10961.0,76
+514,AC-4354,F-22,Hill AFB,Avionics,L3Harris,2024-02-04,4.0,4,Delayed,46267.02,95
+515,AC-5380,B-2,Nellis AFB,Hydraulics,Raytheon,2024-06-13,31.0,3,Completed,17773.46,66
+516,AC-5788,C-130,Eglin AFB,Hydraulics,Raytheon,2025-02-26,21.0,1,Awaiting Parts,28621.5,81
+517,AC-2791,F-22,Hill AFB,Engine Repair,Northrop,05/04/2025,24.0,9,Completed,23798.15,63
+518,AC-8764,F-16,Nellis AFB,Software Update,Raytheon,10/04/2024,16.0,1,Delayed,15077.44,80
+519,AC-6616,F-16,Nellis AFB,Landing Gear,L3Harris,06/20/2024,16.0,6,Delayed,35963.02,79
+520,AC-4715,C-130,Hill AFB,Hydraulics,Raytheon,2025-02-08,11.0,10,Delayed,21746.52,78
+521,AC-3514,F-22,Luke AFB,Engine Repair,Raytheon,05/13/2025,17.0,2,In Progress,4090.88,78
+522,AC-6192,F-16,Luke AFB,Hydraulics,GE Aerospace,01/18/2024,25.0,7,Completed,21624.07,73
+523,AC-6246,F-22,Fort Worth,Electrical,L3Harris,03/15/2024,18.0,7,Awaiting Parts,6249.45,77
+524,AC-3409,B-2,Nellis AFB,Hydraulics,Raytheon,01/21/2025,13.0,8,Completed,9948.53,83
+525,AC-8306,F-16,Fort Worth,Hydraulics,Raytheon,03/06/2025,20.0,0,In Progress,30597.16,78
+526,AC-2431,B-2,Nellis AFB,Avionics,GE Aerospace,03/10/2025,17.0,0,In Progress,38976.87,85
+527,AC-7326,F-16,Fort Worth,Hydraulics,Boeing,08/06/2024,12.0,1,Completed,27406.83,87
+528,AC-8249,F-16,Luke AFB,Electrical,GE Aerospace,01/14/2025,27.0,0,Completed,25740.16,74
+529,AC-6495,F-35A,Eglin AFB,Software Update,Raytheon,2025-03-20,21.0,7,Delayed,27117.3,75
+530,AC-4264,F-22,Nellis AFB,Hydraulics,L3Harris,01/21/2025,15.0,1,In Progress,26033.73,81
+531,AC-1040,F-22,Hill AFB,Hydraulics,GE Aerospace,2024-04-24,9.0,0,Delayed,30238.72,86
+532,AC-2955,F-16,Nellis AFB,Engine Repair,L3Harris,05/05/2024,25.0,0,In Progress,12883.23,70
+533,AC-7114,B-2,Eglin AFB,Engine Repair,Boeing,2024-12-21,22.0,13,Delayed,25249.52,61
+534,AC-6832,F-35A,Hill AFB,Hydraulics,L3Harris,07/03/2024,12.0,4,Delayed,41498.52,85
+535,AC-6285,F-16,Hill AFB,Hydraulics,Boeing,2024-03-26,12.0,1,Completed,19207.08,90
+536,AC-7750,F-16,Luke AFB,Engine Repair,Northrop,2025-02-02,10.0,5,Completed,44496.14,87
+537,AC-1284,C-130,Hill AFB,Hydraulics,Boeing,2024-02-29,20.0,3,In Progress,21498.26,74
+538,AC-4643,F-22,Luke AFB,Electrical,Northrop,01/16/2025,5.0,8,Awaiting Parts,24065.95,83
+539,AC-8934,C-130,Fort Worth,Avionics,Raytheon,2024-02-09,16.0,17,Awaiting Parts,28585.03,62
+540,AC-1168,F-35A,Fort Worth,Landing Gear,Northrop,02/03/2024,11.0,3,Completed,38781.35,85
+541,AC-6698,F-16,Luke AFB,Landing Gear,L3Harris,04/27/2025,18.0,0,Completed,36030.75,81
+542,AC-3814,B-2,Fort Worth,Electrical,Raytheon,05/08/2025,12.0,12,Awaiting Parts,37960.58,75
+543,AC-2758,F-22,Hill AFB,Software Update,GE Aerospace,08/13/2024,14.0,10,In Progress,25814.27,81
+544,AC-6918,F-16,Eglin AFB,Electrical,Raytheon,2024-03-10,24.0,6,Awaiting Parts,14843.72,72
+545,AC-4700,B-2,Nellis AFB,Hydraulics,GE Aerospace,2025-05-14,12.0,9,Awaiting Parts,20982.7,81
+546,AC-9055,F-35A,Nellis AFB,Software Update,L3Harris,01/07/2024,14.0,1,Awaiting Parts,30083.19,90
+547,AC-2060,F-16,Luke AFB,Hydraulics,Northrop,01/14/2025,34.0,0,Awaiting Parts,25290.63,63
+548,AC-5472,C-130,Hill AFB,Software Update,L3Harris,12/31/2024,29.0,4,Delayed,30428.46,71
+549,AC-9147,F-22,Luke AFB,Engine Repair,Raytheon,05/08/2024,9.0,6,Completed,22754.27,87
+550,AC-3502,F-16,Eglin AFB,Landing Gear,Raytheon,12/13/2024,25.0,9,Awaiting Parts,56074.76,66
+551,AC-9032,B-2,Hill AFB,Landing Gear,Boeing,12/04/2024,22.0,N/A,Completed,27332.61,74
+552,AC-8374,F-16,Nellis AFB,Software Update,GE Aerospace,2024-03-01,15.0,6,In Progress,21455.18,80
+553,AC-6119,C-130,Nellis AFB,Engine Repair,L3Harris,08/08/2024,19.0,10,Awaiting Parts,12921.49,68
+554,AC-7412,F-16,Nellis AFB,Landing Gear,GE Aerospace,09/16/2024,27.0,10,In Progress,23583.18,58
+555,AC-6715,B-2,Fort Worth,Electrical,Boeing,03/06/2024,1.0,2,Awaiting Parts,40563.93,97
+556,AC-6113,B-2,Fort Worth,Electrical,Raytheon,05/06/2024,17.0,1,In Progress,18942.7,80
+557,AC-9433,C-130,Hill AFB,Engine Repair,GE Aerospace,08/04/2024,24.0,7,Awaiting Parts,22132.81,73
+558,AC-4373,F-16,Nellis AFB,Landing Gear,Boeing,2024-09-07,15.0,3,Delayed,13931.08,78
+559,AC-9779,F-22,Hill AFB,Hydraulics,Raytheon,02/07/2025,30.0,3,Completed,39605.9,63
+560,AC-5478,F-35A,Eglin AFB,Landing Gear,GE Aerospace,10/30/2024,30.0,N/A,In Progress,19820.56,62
+561,AC-6133,F-22,Nellis AFB,Software Update,Boeing,12/05/2024,21.0,4,Delayed,14155.58,78
+562,AC-9178,F-22,Nellis AFB,Hydraulics,L3Harris,09/21/2024,20.0,0,Completed,39252.15,77
+563,AC-3465,F-16,Nellis AFB,Software Update,Boeing,03/16/2024,14.0,5,Awaiting Parts,28399.45,79
+564,AC-4868,C-130,Luke AFB,Engine Repair,Northrop,2024-03-23,15.0,7,Awaiting Parts,19301.16,77
+565,AC-1606,F-22,Luke AFB,Hydraulics,Northrop,2024-08-04,24.0,0,Delayed,26516.55,81
+566,AC-1326,F-35A,Fort Worth,Hydraulics,L3Harris,01/04/2025,33.0,0,In Progress,16867.06,69
+567,AC-4867,F-35A,Eglin AFB,Electrical,L3Harris,07/22/2024,22.0,5,In Progress,29207.56,70
+568,AC-6134,F-16,Eglin AFB,Electrical,GE Aerospace,11/03/2024,21.0,7,Delayed,38316.4,68
+569,AC-8200,C-130,Hill AFB,Landing Gear,Raytheon,05/11/2025,21.0,4,In Progress,33070.88,74
+570,AC-3374,F-16,Nellis AFB,Electrical,Boeing,05/06/2024,,4,Completed,13305.65,62
+571,AC-4926,F-16,Eglin AFB,Software Update,Boeing,04/26/2025,26.0,4,Completed,1072.03,65
+572,AC-1128,C-130,Hill AFB,Hydraulics,Raytheon,08/14/2024,24.0,2,Delayed,23913.6,75
+573,AC-7656,F-35A,Hill AFB,Engine Repair,GE Aerospace,03/26/2025,20.0,5,Awaiting Parts,33513.42,80
+574,AC-5275,B-2,Fort Worth,Hydraulics,GE Aerospace,02/26/2025,14.0,7,Awaiting Parts,21885.44,76
+575,AC-4010,C-130,Luke AFB,Engine Repair,GE Aerospace,11/24/2024,23.0,7,Completed,13774.74,75
+576,AC-3131,B-2,Nellis AFB,Hydraulics,GE Aerospace,05/11/2025,26.0,2,In Progress,34696.69,77
+577,AC-3980,C-130,Nellis AFB,Landing Gear,Northrop,2024-07-31,,12,Delayed,22318.41,68
+578,AC-3764,F-35A,Nellis AFB,Landing Gear,GE Aerospace,04/11/2024,15.0,4,Delayed,21361.84,80
+579,AC-8129,C-130,Nellis AFB,Engine Repair,Northrop,01/02/2025,24.0,0,In Progress,12355.81,79
+580,AC-4385,B-2,Luke AFB,Hydraulics,Northrop,03/07/2024,9.0,8,In Progress,45527.36,84
+581,AC-7056,B-2,Nellis AFB,Engine Repair,Raytheon,08/18/2024,17.0,4,Awaiting Parts,25840.63,77
+582,AC-5198,F-35A,Fort Worth,Landing Gear,Raytheon,2024-12-28,27.0,1,In Progress,27860.43,73
+583,AC-1745,F-35A,Hill AFB,Landing Gear,L3Harris,05/10/2025,25.0,7,Delayed,27274.98,72
+584,AC-5264,F-22,Eglin AFB,Software Update,Boeing,10/24/2024,26.0,0,Awaiting Parts,33134.5,71
+585,AC-9179,F-16,Hill AFB,Software Update,Boeing,01/23/2024,12.0,0,In Progress,31134.43,85
+586,AC-9049,F-22,Eglin AFB,Electrical,GE Aerospace,2024-03-25,28.0,4,Completed,36434.49,68
+587,AC-2900,C-130,Fort Worth,Software Update,Boeing,08/27/2024,30.0,10,Completed,44679.57,61
+588,AC-2533,F-22,Hill AFB,Avionics,Northrop,03/04/2024,23.0,5,Delayed,5776.41,72
+589,AC-3958,C-130,Fort Worth,Avionics,GE Aerospace,09/26/2024,16.0,N/A,Completed,51051.31,87
+590,AC-6300,F-22,Fort Worth,Engine Repair,GE Aerospace ,05/02/2025,16.0,5,In Progress,31617.82,75
+591,AC-8423,F-16,Eglin AFB,Avionics,Northrop,05/11/2025,18.0,11,Completed,17528.21,66
+592,AC-2516,C-130,Hill AFB,Avionics,Northrop,11/04/2024,19.0,2,Delayed,9159.73,80
+593,AC-3525,F-35A,Hill AFB,Software Update,GE Aerospace,05/25/2024,13.0,4,Delayed,19848.37,88
+594,AC-4274,C-130,Nellis AFB,Software Update,GE Aerospace,07/07/2024,12.0,0,Awaiting Parts,24002.73,91
+595,AC-7979,F-35A,Fort Worth,Landing Gear,Boeing,08/10/2024,5.0,8,Delayed,25989.28,92
+596,AC-2375,F-16,Nellis AFB,Software Update,Raytheon,11/27/2024,6.0,3,Delayed,15974.12,94
+597,AC-8007,F-16,Eglin AFB,Engine Repair,L3Harris,2024-05-07,,10,Awaiting Parts,2497.93,73
+598,AC-5151,F-16,Hill AFB,Landing Gear,Raytheon,01/03/2025,,4,Awaiting Parts,33056.08,82
+599,AC-2364,C-130,Hill AFB,Hydraulics,L3Harris,07/20/2024,19.0,1,In Progress,21171.35,75
+600,AC-4458,F-22,Fort Worth,electrical,L3Harris,02/18/2025,11.0,9,Completed,25255.74,77
+601,AC-8817,C-130,Nellis AFB,Electrical,L3Harris,03/28/2024,33.0,4,In Progress,16499.12,68
+602,AC-5958,F-35A,Luke AFB,Avionics,Raytheon,2024-12-11,5.0,0,Delayed,5990.37,96
+603,AC-4961,C-130,Eglin AFB,Avionics,Raytheon,11/28/2024,20.0,7,Completed,6025.71,70
+604,AC-8947,C-130,Fort Worth,Software Update,L3Harris ,01/13/2025,25.0,3,Awaiting Parts,26761.52,74
+605,AC-7810,C-130,Eglin AFB,Landing Gear,L3Harris,11/18/2024,,8,Awaiting Parts,21777.63,63
+606,AC-6174,B-2,Fort Worth,Hydraulics,GE Aerospace,01/10/2024,10.0,0,In Progress,16370.16,91
+607,AC-4149,C-130,Hill AFB,Software Update,Northrop,03/23/2024,16.0,1,Awaiting Parts,23424.92,82
+608,AC-7829,F-16,Nellis AFB,Avionics,L3Harris,12/30/2024,18.0,4,Awaiting Parts,17199.97,79
+609,AC-2653,C-130,Nellis AFB,Hydraulics,Northrop,11/06/2024,,N/A,In Progress,11915.21,77
+610,AC-1523,F-35A,Hill AFB,Software Update,Raytheon,02/27/2025,29.0,4,In Progress,25226.2,70
+611,AC-5382,F-22,Eglin AFB,Landing Gear,Raytheon,01/28/2025,23.0,5,Awaiting Parts,36437.64,67
+612,AC-2669,B-2,Fort Worth,Landing Gear,Raytheon,2025-05-14,20.0,2,In Progress,29338.04,74
+613,AC-9165,F-35A,Luke AFB,Electrical,Boeing,08/14/2024,8.0,5,Awaiting Parts,24601.24,90
+614,AC-8760,F-16,Hill AFB,Landing Gear,Northrop,2024-01-04,16.0,4,In Progress,2417.81,78
+615,AC-7909,F-22,Luke AFB,Software Update,GE Aerospace,01/20/2025,13.0,5,In Progress,26918.28,85
+616,AC-9476,F-35A,Fort Worth,Hydraulics,Boeing,01/29/2025,9.0,10,Awaiting Parts,14605.9,76
+617,AC-1947,B-2,Hill AFB,Software Update,GE Aerospace ,11/24/2024,25.0,6,In Progress,17245.27,66
+618,AC-3406,C-130,Nellis AFB,Electrical,Northrop,05/23/2024,32.0,0,Awaiting Parts,36029.85,71
+619,AC-7627,F-22,Hill AFB,Engine Repair,Raytheon,02/04/2025,26.0,2,Delayed,41709.58,77
+620,AC-9383,B-2,Hill AFB,Landing Gear,Boeing,04/19/2024,15.0,N/A,In Progress,28123.86,75
+621,AC-9278,F-35A,Fort Worth,Hydraulics,Boeing,01/06/2025,16.0,N/A,Completed,34521.86,77
+622,AC-6553,F-22,Eglin AFB,Landing Gear,L3Harris,01/03/2024,4.0,10,Delayed,5050.1,88
+623,AC-6371,B-2,Eglin AFB,Avionics,Boeing,05/06/2024,26.0,9,Awaiting Parts,11908.4,61
+624,AC-8802,F-22,Nellis AFB,Engine Repair,Boeing,03/30/2025,14.0,0,Awaiting Parts,22420.95,83
+625,AC-8210,C-130,Nellis AFB,Avionics,Northrop,11/21/2024,15.0,8,Completed,40723.7,78
+626,AC-7051,F-35A,Eglin AFB,Software Update,Raytheon,2024-01-17,29.0,N/A,Delayed,22489.34,66
+627,AC-5816,C-130,Fort Worth,Avionics,Northrop,07/10/2024,4.0,1,In Progress,36578.22,94
+628,AC-1034,F-35A,Eglin AFB,Hydraulics,Raytheon,02/23/2025,30.0,0,Awaiting Parts,17890.43,72
+629,AC-3175,F-22,Eglin AFB,Electrical,GE Aerospace,08/31/2024,17.0,6,In Progress,15284.76,81
+630,AC-7344,F-22,Nellis AFB,Hydraulics,L3Harris,2024-11-15,21.0,3,In Progress,24826.57,77
+631,AC-6060,B-2,Fort Worth,Electrical,L3Harris,2024-12-28,22.0,5,Completed,19763.37,68
+632,AC-9235,F-35A,Fort Worth,Electrical,L3Harris,2025-01-19,,4,Delayed,20559.87,81
+633,AC-2386,B-2,Eglin AFB,Hydraulics,GE Aerospace,10/23/2024,15.0,11,In Progress,31731.03,76
+634,AC-6199,C-130,Hill AFB,Engine Repair,Raytheon,03/16/2025,15.0,7,Delayed,20994.17,81
+635,AC-3772,F-35A,Eglin AFB,Hydraulics,Northrop,2024-06-06,27.0,6,In Progress,23712.37,68
+636,AC-2981,F-35A,Luke AFB,Avionics,L3Harris,05/12/2024,21.0,0,Awaiting Parts,11478.79,80
+637,AC-7669,F-35A,Nellis AFB,Engine Repair,GE Aerospace,06/11/2024,8.0,N/A,Completed,45790.18,89
+638,AC-5990,B-2,Nellis AFB,Software Update,Raytheon,02/06/2025,35.0,7,Delayed,31010.13,55
+639,AC-9806,C-130,Eglin AFB,Software Update,Raytheon,2025-02-04,3.0,2,In Progress,15546.59,93
+640,AC-5477,B-2,Hill AFB,Electrical,GE Aerospace,01/31/2024,13.0,4,In Progress,19334.91,85
+641,AC-5925,F-35A,Nellis AFB,Electrical,Raytheon,10/15/2024,2.0,7,Awaiting Parts,12127.08,87
+642,AC-6613,F-16,Nellis AFB,hydraulics,Northrop,02/14/2025,19.0,13,In Progress,13967.38,68
+643,AC-8807,F-35A,Fort Worth,Electrical,Northrop,11/26/2024,2.0,3,Awaiting Parts,38211.52,90
+644,AC-2270,B-2,Fort Worth,Electrical,GE Aerospace,11/28/2024,33.0,0,In Progress,30960.39,72
+645,AC-3044,C-130,Hill AFB,Avionics,GE Aerospace,2025-02-19,14.0,4,In Progress,56732.12,77
+646,AC-4623,F-22,Nellis AFB,hydraulics,Raytheon,11/16/2024,5.0,6,Delayed,30612.32,88
+647,AC-2817,F-16,Eglin AFB,Landing Gear,GE Aerospace,2024-11-22,26.0,5,Delayed,28696.61,70
+648,AC-5253,B-2,Luke AFB,Landing Gear,Boeing,2024-02-03,14.0,6,In Progress,20881.69,77
+649,AC-1849,F-16,Nellis AFB,Software Update,Boeing,2024-01-02,22.0,3,Completed,29525.2,76
+650,AC-9723,C-130,Hill AFB,Engine Repair,GE Aerospace,2024-05-22,17.0,9,Completed,24383.28,75
+651,AC-2219,F-22,Luke AFB,Avionics,Boeing ,12/19/2024,3.0,10,Awaiting Parts,14131.21,88
+652,AC-6477,F-16,Luke AFB,Engine Repair,GE Aerospace,02/12/2025,12.0,N/A,In Progress,41493.26,91
+653,AC-8184,F-35A,Nellis AFB,Landing Gear,Raytheon,2024-02-07,0.0,N/A,In Progress,37672.68,87
+654,AC-2015,C-130,Fort Worth,Hydraulics,L3Harris,02/04/2025,19.0,4,Completed,28426.65,74
+655,AC-7735,F-22,Eglin AFB,Electrical,L3Harris,2024-02-19,22.0,7,Completed,31667.25,75
+656,AC-8439,B-2,Hill AFB,Landing Gear,Northrop,2025-02-04,,4,Delayed,23184.72,73
+657,AC-6822,C-130,Nellis AFB,Electrical,L3Harris,09/17/2024,16.0,9,Completed,32122.68,74
+658,AC-6861,F-16,Eglin AFB,Landing Gear,Northrop,2024-09-19,5.0,7,In Progress,27336.83,93
+659,AC-3369,F-35A,Luke AFB,Landing Gear,L3Harris,12/02/2024,17.0,3,Delayed,38489.35,85
+660,AC-4102,C-130,Nellis AFB,Landing Gear,Boeing,02/05/2024,25.0,1,In Progress,29884.63,74
+661,AC-9125,F-22,Fort Worth,Electrical,Northrop,08/20/2024,10.0,0,Awaiting Parts,17479.39,85
+662,AC-4363,C-130,Luke AFB,Engine Repair,Boeing,2024-06-18,24.0,8,Delayed,31157.03,69
+663,AC-1719,F-35A,Luke AFB,Avionics,Boeing,2024-10-26,23.0,7,In Progress,17302.22,70
+664,AC-3884,F-16,Fort Worth,Engine Repair,Northrop,04/10/2024,21.0,8,Delayed,34051.5,66
+665,AC-3807,B-2,Eglin AFB,Software Update,Raytheon,2025-02-18,27.0,7,Delayed,29217.38,66
+666,AC-8037,F-22,Fort Worth,Landing Gear,L3Harris,2024-07-10,26.0,4,In Progress,14417.5,70
+667,AC-9327,B-2,Nellis AFB,Avionics,Raytheon,05/23/2024,16.0,2,Delayed,16897.86,79
+668,AC-7131,C-130,Eglin AFB,Software Update,Northrop,11/26/2024,16.0,1,Awaiting Parts,21304.46,86
+669,AC-1599,F-22,Luke AFB,Avionics,GE Aerospace,11/22/2024,2.0,5,Awaiting Parts,25014.47,97
+670,AC-2388,F-22,Fort Worth,Hydraulics,GE Aerospace,07/10/2024,11.0,N/A,In Progress,36250.84,81
+671,AC-9151,F-16,Hill AFB,Software Update,Raytheon,2024-07-28,5.0,1,In Progress,15770.29,94
+672,AC-9956,F-35A,Hill AFB,Avionics,Raytheon,2024-09-13,10.0,8,In Progress,22674.09,85
+673,AC-5496,F-22,Eglin AFB,Avionics,L3Harris,06/03/2024,,0,In Progress,32625.02,90
+674,AC-1194,C-130,Eglin AFB,Avionics,GE Aerospace,07/26/2024,8.0,5,Delayed,28328.52,91
+675,AC-8559,F-16,Fort Worth,Hydraulics,Northrop,01/22/2025,28.0,0,Awaiting Parts,11234.15,74
+676,AC-3102,F-16,Fort Worth,Software Update,Boeing,07/10/2024,19.0,12,Awaiting Parts,39867.36,66
+677,AC-1380,B-2,Fort Worth,Avionics,Northrop,06/02/2024,19.0,3,Awaiting Parts,34685.47,78
+678,AC-9757,C-130,Luke AFB,Software Update,Raytheon,07/19/2024,10.0,6,In Progress,31065.64,80
+679,AC-1525,B-2,Nellis AFB,Engine Repair,Northrop,2024-10-10,26.0,16,Delayed,29708.99,55
+680,AC-1941,F-16,Eglin AFB,Engine Repair,Northrop,02/05/2024,13.0,4,Completed,3771.09,85
+681,AC-7373,F-22,Luke AFB,Avionics,Boeing,01/15/2025,12.0,3,In Progress,18710.94,81
+682,AC-5512,F-22,Fort Worth,Avionics,GE Aerospace,2024-12-16,19.0,1,In Progress,38452.37,82
+683,AC-1640,F-35A,Hill AFB,Electrical,GE Aerospace,08/23/2024,18.0,4,Awaiting Parts,21065.26,80
+684,AC-5081,F-22,Eglin AFB,Electrical,GE Aerospace,03/30/2024,19.0,8,Completed,14594.44,74
+685,AC-5485,B-2,Hill AFB,Electrical,Raytheon,05/02/2024,12.0,3,Awaiting Parts,8849.55,82
+686,AC-2253,F-35A,Eglin AFB,hydraulics,GE Aerospace,03/03/2024,11.0,3,Awaiting Parts,35492.67,86
+687,AC-7244,F-16,Nellis AFB,Avionics,GE Aerospace,2024-12-11,20.0,5,Delayed,35210.78,77
+688,AC-2117,F-35A,Eglin AFB,Electrical,Northrop,09/05/2024,16.0,6,In Progress,23761.34,80
+689,AC-2646,F-22,Hill AFB,Engine Repair,L3Harris,01/10/2024,20.0,2,Completed,4265.81,82
+690,AC-4549,F-35A,Eglin AFB,Avionics,GE Aerospace,07/02/2024,16.0,10,Completed,36114.58,71
+691,AC-1076,F-35A,Nellis AFB,avionics,Northrop ,01/27/2024,25.0,9,Awaiting Parts,26063.89,70
+692,AC-2035,F-22,Fort Worth,Electrical,Northrop,02/24/2025,,2,In Progress,21207.13,77
+693,AC-9875,C-130,Nellis AFB,Engine Repair,Northrop ,11/15/2024,22.0,9,Awaiting Parts,23326.64,67
+694,AC-4606,F-35A,Hill AFB,Electrical,L3Harris,04/18/2024,14.0,5,In Progress,32214.48,83
+695,AC-3809,F-16,Fort Worth,Landing Gear,Boeing,02/22/2024,6.0,0,Delayed,18393.56,97
+696,AC-8899,F-35A,Hill AFB,Engine Repair,L3Harris,03/28/2025,8.0,2,Delayed,23226.64,90
+697,AC-1347,B-2,Fort Worth,Hydraulics,Northrop,01/07/2024,14.0,10,Completed,28920.94,74
+698,AC-7156,F-22,Fort Worth,Avionics,L3Harris,04/13/2024,20.0,7,Delayed,11334.0,70
+699,AC-9533,C-130,Hill AFB,Engine Repair,Northrop,01/24/2025,26.0,4,Completed,33045.77,65
+700,AC-4644,B-2,Nellis AFB,Landing Gear,Boeing,2024-05-07,9.0,N/A,Awaiting Parts,34814.68,96
+701,AC-4345,F-22,Fort Worth,Avionics,L3Harris,11/20/2024,21.0,1,Completed,14564.04,75
+702,AC-5012,C-130,Luke AFB,Landing Gear,Northrop,03/25/2024,27.0,0,Delayed,44712.08,71
+703,AC-7524,C-130,Luke AFB,Software Update,GE Aerospace,02/10/2024,10.0,7,Delayed,21056.58,83
+704,AC-8002,F-35A,Hill AFB,Landing Gear,L3Harris,2024-01-11,22.0,2,Awaiting Parts,23046.49,77
+705,AC-8878,F-35A,Hill AFB,Avionics,GE Aerospace,2024-10-14,18.0,N/A,In Progress,33889.89,86
+706,AC-7113,C-130,Nellis AFB,Hydraulics,L3Harris,2025-04-26,13.0,4,Completed,13067.81,84
+707,AC-5182,F-16,Eglin AFB,Electrical,GE Aerospace,04/09/2024,2.0,N/A,Awaiting Parts,53951.39,95
+708,AC-1565,F-16,Fort Worth,Electrical,Northrop,05/04/2024,24.0,4,In Progress,21845.31,74
+709,AC-1202,F-35A,Fort Worth,Electrical,GE Aerospace,12/05/2024,18.0,7,Delayed,10830.25,72
+710,AC-5951,B-2,Eglin AFB,Electrical,GE Aerospace,08/06/2024,26.0,7,Completed,33618.23,66
+711,AC-3338,F-16,Luke AFB,electrical,GE Aerospace,02/12/2025,,5,Awaiting Parts,33074.33,74
+712,AC-9600,C-130,Hill AFB,Electrical,GE Aerospace,2024-12-22,22.0,3,Delayed,18116.78,76
+713,AC-4482,F-22,Luke AFB,Engine Repair,Northrop,02/26/2024,18.0,11,Awaiting Parts,10130.72,73
+714,AC-3721,F-35A,Hill AFB,Engine Repair,GE Aerospace,2024-02-25,6.0,N/A,Delayed,25610.65,94
+715,AC-2000,F-16,Fort Worth,Electrical,L3Harris,02/21/2024,,5,Completed,22321.57,71
+716,AC-8961,C-130,Hill AFB,Landing Gear,GE Aerospace,05/07/2025,29.0,0,In Progress,15058.04,70
+717,AC-7200,B-2,Fort Worth,Hydraulics,Boeing,12/06/2024,,0,Awaiting Parts,22889.75,84
+718,AC-3013,B-2,Hill AFB,Electrical,Northrop,03/12/2024,31.0,5,Awaiting Parts,27768.41,59
+719,AC-6278,F-35A,Hill AFB,Engine Repair,Boeing,01/02/2024,7.0,2,Completed,20497.64,96
+720,AC-2645,C-130,Hill AFB,Landing Gear,Northrop,04/27/2025,15.0,10,Completed,31692.29,77
+721,AC-9990,C-130,Luke AFB,Software Update,Raytheon,06/03/2024,9.0,5,Delayed,30978.66,91
+722,AC-8125,F-35A,Luke AFB,Hydraulics,GE Aerospace,02/15/2024,27.0,11,Awaiting Parts,12818.87,58
+723,AC-9757,C-130,Fort Worth,Electrical,Boeing,12/06/2024,11.0,0,Completed,22191.76,86
+724,AC-8159,F-22,Luke AFB,Hydraulics,Raytheon,01/02/2025,21.0,8,Delayed,24088.59,72
+725,AC-6134,C-130,Eglin AFB,Electrical,Raytheon,07/07/2024,15.0,5,Awaiting Parts,14978.29,77
+726,AC-3069,B-2,Eglin AFB,Landing Gear,Northrop,2024-07-05,,0,In Progress,27216.89,71
+727,AC-9189,C-130,Luke AFB,Landing Gear,Boeing,2025-03-04,34.0,5,Completed,22719.53,59
+728,AC-5480,B-2,Nellis AFB,Electrical,Northrop,12/18/2024,15.0,4,In Progress,41474.18,77
+729,AC-1861,F-22,Nellis AFB,Electrical,GE Aerospace,03/10/2025,0.0,11,Delayed,7912.51,87
+730,AC-8756,F-16,Nellis AFB,Software Update,Raytheon,06/21/2024,15.0,3,Delayed,32062.64,83
+731,AC-6298,B-2,Fort Worth,Electrical,Boeing,02/19/2024,5.0,6,Awaiting Parts,49291.72,86
+732,AC-1149,F-16,Eglin AFB,Engine Repair,Northrop,04/21/2024,7.0,5,Delayed,17056.21,86
+733,AC-3943,F-35A,Fort Worth,Landing Gear,Boeing,05/13/2025,21.0,5,Awaiting Parts,17302.16,76
+734,AC-5959,B-2,Luke AFB,Electrical,GE Aerospace,07/22/2024,21.0,12,Completed,22709.15,69
+735,AC-5509,C-130,Hill AFB,engine repair,Raytheon,2024-11-28,23.0,0,Delayed,13522.76,78
+736,AC-5484,F-35A,Eglin AFB,Avionics,GE Aerospace,10/20/2024,21.0,10,Delayed,29267.36,71
+737,AC-4029,C-130,Fort Worth,Software Update,L3Harris,04/10/2025,15.0,4,Completed,9995.11,84
+738,AC-3033,F-22,Fort Worth,Avionics,L3Harris,12/31/2024,,8,In Progress,19574.92,75
+739,AC-3641,F-35A,Eglin AFB,Hydraulics,Raytheon,2024-04-15,14.0,6,Delayed,19759.36,85
+740,AC-5925,F-35A,Eglin AFB,Hydraulics,L3Harris,01/01/2024,17.0,13,In Progress,22035.69,68
+741,AC-1732,F-22,Fort Worth,Avionics,Northrop,12/18/2024,15.0,2,Delayed,33930.3,79
+742,AC-7914,F-35A,Eglin AFB,Hydraulics,Boeing,01/08/2025,16.0,2,Completed,40855.65,86
+743,AC-9780,F-22,Fort Worth,Electrical,Boeing,04/26/2025,29.0,2,In Progress,2601.52,66
+744,AC-3687,C-130,Luke AFB,Hydraulics,GE Aerospace,09/18/2024,26.0,2,In Progress,34487.51,76
+745,AC-2080,F-16,Fort Worth,hydraulics,Boeing,10/07/2024,2.0,8,In Progress,10465.94,91
+746,AC-7203,F-35A,Fort Worth,Avionics,L3Harris,05/11/2025,23.0,5,Awaiting Parts,13552.73,70
+747,AC-5440,B-2,Fort Worth,Engine Repair,Northrop,10/19/2024,14.0,7,Awaiting Parts,26270.73,78
+748,AC-9414,F-22,Luke AFB,Avionics,GE Aerospace,01/05/2024,22.0,12,In Progress,6229.1,71
+749,AC-8500,F-22,Nellis AFB,Hydraulics,GE Aerospace,11/07/2024,30.0,5,Delayed,14214.59,66
+750,AC-7660,F-16,Fort Worth,Electrical,Raytheon,2025-04-30,7.0,4,Completed,36059.8,88
+751,AC-1175,C-130,Eglin AFB,Electrical,Northrop,04/20/2025,16.0,11,Completed,7585.89,75
+752,AC-7962,B-2,Hill AFB,Avionics,L3Harris,04/11/2025,,0,Delayed,29363.58,78
+753,AC-3864,F-35A,Hill AFB,Avionics,L3Harris,09/25/2024,25.0,3,Delayed,6250.57,70
+754,AC-5092,B-2,Fort Worth,Hydraulics,Boeing,04/12/2025,19.0,N/A,Awaiting Parts,29851.54,80
+755,AC-9446,F-35A,Nellis AFB,Landing Gear,GE Aerospace ,2025-04-22,,0,In Progress,33162.59,78
+756,AC-7587,F-16,Fort Worth,Engine Repair,GE Aerospace,03/31/2025,27.0,0,Delayed,28835.82,70
+757,AC-5098,F-22,Nellis AFB,Software Update,Boeing,01/04/2024,13.0,4,In Progress,29172.12,80
+758,AC-3651,F-22,Hill AFB,Electrical,GE Aerospace,2025-03-05,14.0,2,Completed,25409.83,86
+759,AC-6426,F-35A,Luke AFB,Electrical,Northrop,07/21/2024,9.0,0,Completed,33152.48,92
+760,AC-3087,F-16,Nellis AFB,Landing Gear,GE Aerospace,2025-02-13,8.0,7,Delayed,30551.1,90
+761,AC-4874,F-35A,Hill AFB,Software Update,L3Harris,01/27/2025,4.0,2,Awaiting Parts,39329.31,99
+762,AC-9376,F-22,Luke AFB,Hydraulics,Raytheon,11/12/2024,10.0,3,Awaiting Parts,30544.73,84
+763,AC-9230,B-2,Luke AFB,Avionics,L3Harris,02/18/2025,24.0,3,Awaiting Parts,17829.88,69
+764,AC-7984,F-35A,Eglin AFB,Avionics,Raytheon,04/20/2025,29.0,11,Delayed,36746.3,57
+765,AC-7997,F-35A,Hill AFB,Engine Repair,Boeing,02/01/2024,18.0,1,Delayed,15034.67,84
+766,AC-1854,F-16,Luke AFB,Hydraulics,GE Aerospace,01/21/2024,22.0,6,In Progress,41819.18,67
+767,AC-2587,F-35A,Eglin AFB,Avionics,Boeing,06/04/2024,23.0,0,In Progress,37623.37,73
+768,AC-2429,F-35A,Luke AFB,Electrical,L3Harris,2024-10-26,10.0,3,Delayed,28002.4,88
+769,AC-9955,B-2,Hill AFB,Hydraulics,GE Aerospace,02/20/2024,33.0,17,Completed,32280.68,55
+770,AC-6690,F-16,Nellis AFB,Electrical,Raytheon,12/30/2024,16.0,7,Completed,35651.87,76
+771,AC-5745,F-35A,Eglin AFB,Engine Repair,Northrop,05/10/2025,15.0,12,Completed,27760.85,70
+772,AC-7393,C-130,Eglin AFB,Hydraulics,Northrop,2024-07-15,21.0,7,Completed,30059.04,75
+773,AC-9602,F-16,Hill AFB,Avionics,Boeing,08/21/2024,24.0,2,Completed,18300.38,77
+774,AC-5550,F-22,Hill AFB,Engine Repair,Northrop,11/23/2024,9.0,6,In Progress,34347.24,82
+775,AC-9999,F-16,Luke AFB,Software Update,L3Harris,06/15/2024,21.0,11,Completed,24932.85,64
+776,AC-3895,F-16,Fort Worth,Landing Gear,L3Harris,2025-05-09,23.0,0,In Progress,20354.8,76
+777,AC-8244,F-22,Hill AFB,Hydraulics,Northrop,10/09/2024,23.0,8,Delayed,21472.4,67
+778,AC-3430,C-130,Fort Worth,Software Update,Northrop,08/10/2024,17.0,0,Awaiting Parts,20715.65,83
+779,AC-6081,F-22,Luke AFB,Software Update,L3Harris,2024-05-24,25.0,7,Awaiting Parts,31007.99,63
+780,AC-3249,F-35A,Eglin AFB,Engine Repair,GE Aerospace,02/21/2024,18.0,N/A,Completed,17076.15,80
+781,AC-1221,F-35A,Fort Worth,Landing Gear,Boeing,05/17/2024,23.0,6,Awaiting Parts,30904.23,68
+782,AC-4994,F-35A,Eglin AFB,Electrical,Boeing,09/02/2024,13.0,0,Completed,38165.83,84
+783,AC-3323,F-35A,Luke AFB,Engine Repair,Northrop,03/29/2025,14.0,1,Delayed,33321.75,86
+784,AC-9057,F-22,Fort Worth,Avionics,Raytheon,12/17/2024,14.0,N/A,In Progress,32404.07,73
+785,AC-1710,B-2,Luke AFB,Avionics,GE Aerospace,04/15/2025,23.0,0,Delayed,39543.33,73
+786,AC-6707,F-35A,Hill AFB,Software Update,Boeing,11/15/2024,20.0,3,Completed,26720.66,76
+787,AC-3401,F-16,Luke AFB,Software Update,GE Aerospace,05/15/2025,3.0,6,Completed,12647.54,88
+788,AC-3370,F-35A,Hill AFB,Avionics,Northrop,01/07/2025,7.0,0,Awaiting Parts,38352.26,92
+789,AC-6463,F-22,Luke AFB,Software Update,GE Aerospace,02/10/2025,12.0,11,Delayed,18570.38,82
+790,AC-4593,F-35A,Luke AFB,Hydraulics,Raytheon,08/03/2024,4.0,0,Awaiting Parts,39829.74,99
+791,AC-6912,F-22,Hill AFB,Software Update,Northrop,01/31/2024,16.0,2,Awaiting Parts,26920.22,82
+792,AC-2920,F-22,Nellis AFB,Electrical,Raytheon,01/29/2024,22.0,N/A,Completed,42381.99,66
+793,AC-3591,F-35A,Luke AFB,Hydraulics,Northrop,2025-03-04,15.0,0,Awaiting Parts,20038.42,89
+794,AC-9641,F-16,Nellis AFB,Software Update,Boeing,01/15/2025,20.0,N/A,Completed,13514.19,76
+795,AC-3843,B-2,Luke AFB,Engine Repair,GE Aerospace,01/17/2024,20.0,4,In Progress,25393.56,80
+796,AC-7941,F-22,Hill AFB,Engine Repair,L3Harris,12/29/2024,11.0,4,Awaiting Parts,13909.2,83
+797,AC-2264,C-130,Nellis AFB,Hydraulics,GE Aerospace,04/04/2024,25.0,9,Awaiting Parts,2845.75,69
+798,AC-6496,F-35A,Luke AFB,Hydraulics,Northrop,02/09/2024,10.0,0,In Progress,17199.71,90
+799,AC-4937,F-16,Fort Worth,Landing Gear,L3Harris,2025-04-20,17.0,0,Completed,13937.68,78
+800,AC-5626,C-130,Eglin AFB,Avionics,Boeing,01/05/2024,9.0,5,Completed,25832.13,86
+801,AC-9227,F-22,Fort Worth,Landing Gear,GE Aerospace,09/14/2024,12.0,N/A,Delayed,18439.84,79
+802,AC-2528,F-22,Luke AFB,Electrical,Northrop,03/29/2025,15.0,11,In Progress,41085.53,79
+803,AC-8059,F-35A,Nellis AFB,Avionics,Northrop ,05/28/2024,7.0,8,Awaiting Parts,34736.76,85
+804,AC-9964,F-35A,Nellis AFB,Engine Repair,GE Aerospace,01/27/2025,8.0,8,In Progress,43455.18,83
+805,AC-8548,F-16,Nellis AFB,Hydraulics,GE Aerospace,02/06/2024,9.0,1,Awaiting Parts,37211.94,87
+806,AC-3113,C-130,Hill AFB,Landing Gear,L3Harris,07/24/2024,20.0,7,Awaiting Parts,29087.07,74
+807,AC-1934,F-22,Eglin AFB,Engine Repair,Northrop,12/15/2024,21.0,0,Awaiting Parts,37567.81,74
+808,AC-2531,F-16,Nellis AFB,Software Update,L3Harris,03/23/2025,27.0,4,Completed,24478.28,71
+809,AC-4268,C-130,Hill AFB,Engine Repair,Boeing,01/28/2025,5.0,7,Awaiting Parts,31864.69,89
+810,AC-8699,F-22,Luke AFB,Hydraulics,L3Harris,2024-10-06,17.0,9,In Progress,20991.07,71
+811,AC-4465,F-35A,Nellis AFB,Hydraulics,Boeing,04/19/2024,22.0,N/A,Awaiting Parts,24717.37,73
+812,AC-9597,F-22,Hill AFB,Avionics,Raytheon,2024-08-19,16.0,5,In Progress,20565.68,80
+813,AC-8790,B-2,Luke AFB,Electrical,GE Aerospace,08/02/2024,16.0,8,Completed,19758.83,78
+814,AC-3369,F-16,Hill AFB,Engine Repair,Northrop,04/11/2024,5.0,11,In Progress,41577.45,80
+815,AC-9531,F-35A,Nellis AFB,Avionics,GE Aerospace,07/27/2024,7.0,N/A,Delayed,18964.3,85
+816,AC-7185,F-22,Hill AFB,avionics,Northrop,03/26/2024,20.0,N/A,In Progress,22187.11,78
+817,AC-9177,C-130,Nellis AFB,Software Update,Boeing,09/14/2024,11.0,2,In Progress,14005.7,83
+818,AC-3898,B-2,Eglin AFB,Avionics,L3Harris,08/07/2024,11.0,4,Awaiting Parts,16410.88,85
+819,AC-2435,F-35A,Fort Worth,Electrical,Raytheon,04/25/2025,23.0,10,Completed,18039.36,63
+820,AC-5749,C-130,Luke AFB,Avionics,GE Aerospace,02/16/2025,19.0,6,Completed,30664.03,70
+821,AC-7484,F-35A,Hill AFB,Avionics,L3Harris ,08/25/2024,18.0,7,Awaiting Parts,30786.99,76
+822,AC-1535,F-35A,Fort Worth,Avionics,Boeing,04/10/2025,8.0,8,In Progress,35647.49,85
+823,AC-7412,F-22,Eglin AFB,Electrical,GE Aerospace,08/08/2024,11.0,5,Delayed,33199.95,82
+824,AC-7604,F-16,Eglin AFB,Avionics,GE Aerospace,01/07/2025,16.0,9,Completed,53366.47,72
+825,AC-5263,B-2,Luke AFB,hydraulics,Northrop,2025-03-07,,N/A,Delayed,28645.82,94
+826,AC-7265,F-35A,Luke AFB,Software Update,Boeing,2025-04-16,23.0,4,Delayed,42439.13,69
+827,AC-5267,F-35A,Hill AFB,Engine Repair,Northrop,02/03/2025,7.0,7,Completed,17729.67,87
+828,AC-3323,F-16,Hill AFB,Avionics,Raytheon,2024-03-03,31.0,12,Delayed,15800.12,55
+829,AC-2205,C-130,Fort Worth,Avionics,GE Aerospace ,01/12/2024,13.0,8,Delayed,20354.43,80
+830,AC-1515,F-35A,Hill AFB,Hydraulics,GE Aerospace,04/01/2024,17.0,N/A,In Progress,1963.92,83
+831,AC-1377,B-2,Eglin AFB,Avionics,Northrop,01/16/2024,17.0,2,In Progress,19082.53,84
+832,AC-5384,F-16,Nellis AFB,Avionics,Raytheon,12/20/2024,29.0,0,Awaiting Parts,34758.46,68
+833,AC-5097,F-22,Luke AFB,Electrical,Boeing,04/17/2025,15.0,3,In Progress,34484.46,80
+834,AC-8101,C-130,Nellis AFB,Landing Gear,Boeing,01/04/2025,20.0,7,Awaiting Parts,36618.22,75
+835,AC-2052,C-130,Luke AFB,Engine Repair,L3Harris,04/04/2025,15.0,2,In Progress,11978.19,88
+836,AC-8035,F-22,Hill AFB,Avionics,Raytheon,02/18/2025,11.0,16,In Progress,39936.15,73
+837,AC-4502,C-130,Eglin AFB,Hydraulics,Northrop,01/06/2024,7.0,0,Delayed,30782.39,93
+838,AC-2225,B-2,Nellis AFB,Electrical,GE Aerospace,11/07/2024,22.0,7,Awaiting Parts,21940.53,76
+839,AC-3033,C-130,Luke AFB,Landing Gear,Boeing,08/03/2024,16.0,N/A,Completed,26030.72,74
+840,AC-5659,F-22,Nellis AFB,Engine Repair,L3Harris,01/03/2024,,4,Completed,14783.12,98
+841,AC-5500,F-16,Hill AFB,Software Update,Raytheon,07/31/2024,19.0,16,Awaiting Parts,29409.78,64
+842,AC-2989,F-16,Eglin AFB,Engine Repair,Raytheon,09/09/2024,15.0,8,In Progress,30792.25,82
+843,AC-2442,F-22,Hill AFB,Landing Gear,Raytheon,04/25/2024,21.0,7,Completed,49678.52,69
+844,AC-6395,B-2,Nellis AFB,Hydraulics,Northrop,02/08/2024,8.0,6,In Progress,13883.43,85
+845,AC-8320,F-35A,Eglin AFB,Landing Gear,Northrop,03/30/2025,22.0,1,In Progress,19991.6,78
+846,AC-5853,F-35A,Hill AFB,Landing Gear,Northrop,02/17/2024,15.0,8,Completed,36021.45,76
+847,AC-4541,C-130,Nellis AFB,Avionics,GE Aerospace,2024-04-18,8.0,5,In Progress,16485.04,82
+848,AC-3523,B-2,Fort Worth,Avionics,Northrop,08/20/2024,7.0,4,Delayed,21298.21,94
+849,AC-3690,F-16,Eglin AFB,electrical,Raytheon,2024-05-22,37.0,6,Delayed,8468.59,58
+850,AC-8802,B-2,Nellis AFB,Hydraulics,Boeing,2024-05-16,13.0,9,Delayed,50061.31,73
+851,AC-1870,C-130,Hill AFB,Hydraulics,Raytheon,2024-09-17,5.0,0,Delayed,47451.58,95
+852,AC-9676,B-2,Nellis AFB,Landing Gear,GE Aerospace,2024-10-31,,1,Completed,31415.55,77
+853,AC-5361,F-22,Fort Worth,Landing Gear,Raytheon,01/19/2024,3.0,5,Awaiting Parts,28933.85,96
+854,AC-9112,F-22,Luke AFB,Avionics,Boeing,01/10/2025,25.0,0,Completed,26028.25,74
+855,AC-8811,F-16,Luke AFB,Avionics,Boeing ,12/24/2024,10.0,6,Awaiting Parts,14255.84,88
+856,AC-6473,F-35A,Luke AFB,Hydraulics,Raytheon,2024-08-30,14.0,N/A,In Progress,32813.63,86
+857,AC-8742,F-35A,Fort Worth,Engine Repair,L3Harris,09/07/2024,24.0,4,Delayed,25458.86,70
+858,AC-6499,C-130,Nellis AFB,Electrical,Boeing,02/21/2024,6.0,3,In Progress,24397.54,90
+859,AC-9484,B-2,Nellis AFB,Engine Repair,Boeing,06/03/2024,38.0,N/A,Awaiting Parts,42570.13,62
+860,AC-9156,F-35A,Luke AFB,Landing Gear,GE Aerospace,03/13/2024,25.0,6,Awaiting Parts,46103.45,69
+861,AC-9927,C-130,Eglin AFB,Avionics,Boeing,03/25/2025,20.0,6,Awaiting Parts,24362.55,79
+862,AC-9520,F-16,Eglin AFB,Engine Repair,GE Aerospace,04/07/2024,27.0,9,In Progress,17491.87,59
+863,AC-3410,C-130,Luke AFB,Landing Gear,Boeing,09/12/2024,7.0,4,In Progress,15399.54,94
+864,AC-4560,F-16,Eglin AFB,Engine Repair,Raytheon,08/20/2024,,9,Completed,19512.38,69
+865,AC-9224,B-2,Luke AFB,Engine Repair,Boeing,2025-03-25,17.0,5,Completed,35181.17,77
+866,AC-5075,C-130,Nellis AFB,Software Update,Raytheon,04/22/2025,0.0,2,Delayed,27535.4,98
+867,AC-3280,F-22,Hill AFB,Avionics,GE Aerospace,06/14/2024,27.0,3,Awaiting Parts,2481.37,74
+868,AC-2573,F-22,Eglin AFB,Software Update,Boeing,03/24/2025,22.0,2,In Progress,10724.0,77
+869,AC-1453,B-2,Fort Worth,Software Update,Raytheon,07/29/2024,13.0,4,Delayed,17743.06,85
+870,AC-5806,F-35A,Nellis AFB,Avionics,GE Aerospace,11/13/2024,0.0,8,Awaiting Parts,40298.5,95
+871,AC-2753,F-16,Eglin AFB,Engine Repair,Boeing,05/18/2024,23.0,0,Completed,22582.1,82
+872,AC-4359,B-2,Luke AFB,Landing Gear,GE Aerospace,2025-01-13,17.0,7,Delayed,33020.09,71
+873,AC-8945,B-2,Luke AFB,Engine Repair,Raytheon,2025-04-24,12.0,5,Completed,30487.36,78
+874,AC-8271,C-130,Fort Worth,Engine Repair,Boeing,01/13/2024,29.0,7,In Progress,34468.68,67
+875,AC-3018,C-130,Luke AFB,Electrical,Raytheon,2025-03-15,18.0,10,Delayed,29917.15,77
+876,AC-8871,F-16,Hill AFB,Electrical,Raytheon,04/12/2024,11.0,10,Awaiting Parts,33374.84,81
+877,AC-7960,F-22,Fort Worth,Hydraulics,GE Aerospace,2024-08-25,14.0,3,Completed,28558.91,84
+878,AC-1698,F-16,Luke AFB,Software Update,GE Aerospace,11/13/2024,21.0,5,Delayed,28735.7,76
+879,AC-2028,F-22,Luke AFB,Hydraulics,L3Harris,07/18/2024,31.0,9,In Progress,27287.63,63
+880,AC-2117,C-130,Nellis AFB,Software Update,L3Harris,04/17/2025,25.0,0,In Progress,29775.12,76
+881,AC-6703,B-2,Eglin AFB,Software Update,Raytheon,2025-05-04,32.0,4,Completed,14828.39,68
+882,AC-6302,F-22,Luke AFB,Engine Repair,Northrop,12/13/2024,12.0,0,Completed,15582.86,90
+883,AC-8234,F-16,Eglin AFB,Electrical,Raytheon,01/20/2024,15.0,0,Awaiting Parts,25187.42,81
+884,AC-4206,F-16,Nellis AFB,Software Update,Boeing ,10/11/2024,25.0,1,Delayed,43231.41,72
+885,AC-2576,F-22,Fort Worth,Avionics,Raytheon,05/06/2025,22.0,9,Completed,17105.99,74
+886,AC-9653,C-130,Luke AFB,Avionics,L3Harris,05/05/2025,24.0,0,Delayed,35682.97,81
+887,AC-2161,B-2,Fort Worth,avionics,L3Harris,11/16/2024,19.0,7,In Progress,10892.86,75
+888,AC-7396,F-16,Fort Worth,Avionics,Boeing,2024-05-28,10.0,7,In Progress,13619.82,82
+889,AC-8716,F-16,Fort Worth,Engine Repair,Boeing,12/23/2024,21.0,0,Completed,35178.09,75
+890,AC-2021,F-22,Nellis AFB,Engine Repair,L3Harris,01/10/2025,8.0,7,Completed,32507.57,85
+891,AC-2320,B-2,Nellis AFB,Avionics,Boeing,08/01/2024,12.0,7,Delayed,28125.31,85
+892,AC-1351,F-35A,Fort Worth,Avionics,L3Harris,06/04/2024,13.0,0,Completed,1448.49,85
+893,AC-3051,C-130,Nellis AFB,Landing Gear,Northrop,2025-01-27,20.0,0,In Progress,26144.13,81
+894,AC-4902,F-22,Fort Worth,Landing Gear,Raytheon ,04/15/2025,15.0,7,Completed,21375.45,73
+895,AC-1931,F-35A,Fort Worth,Avionics,GE Aerospace,2025-01-03,,7,Delayed,29020.7,76
+896,AC-3005,F-35A,Fort Worth,Hydraulics,L3Harris,07/22/2024,20.0,6,Delayed,6573.13,76
+897,AC-5795,F-22,Eglin AFB,Hydraulics,Boeing,07/06/2024,24.0,N/A,Awaiting Parts,12799.8,72
+898,AC-4335,F-22,Eglin AFB,Avionics,Boeing,05/23/2024,16.0,4,Delayed,23386.04,76
+899,AC-8434,F-35A,Fort Worth,Software Update,Raytheon,08/13/2024,20.0,10,Completed,37981.2,75
+900,AC-1308,C-130,Nellis AFB,Software Update,Raytheon,07/15/2024,7.0,7,Completed,40947.2,88
+901,AC-1425,B-2,Hill AFB,Hydraulics,L3Harris,01/25/2025,,9,Awaiting Parts,49147.25,70
+902,AC-2789,B-2,Nellis AFB,Electrical,Boeing,04/20/2025,26.0,5,In Progress,37541.06,64
+903,AC-3160,F-35A,Hill AFB,Electrical,Boeing,2025-01-16,19.0,5,In Progress,20783.03,74
+904,AC-5403,F-16,Eglin AFB,Engine Repair,Raytheon ,05/20/2024,30.0,1,Delayed,43388.41,69
+905,AC-1606,F-16,Nellis AFB,Electrical,L3Harris,01/05/2024,21.0,0,In Progress,29411.79,81
+906,AC-8216,F-22,Hill AFB,Hydraulics,Boeing,05/03/2025,1.0,7,Delayed,35622.78,88
+907,AC-1630,F-22,Eglin AFB,Software Update,L3Harris ,04/29/2024,13.0,5,In Progress,48449.89,78
+908,AC-9854,F-35A,Eglin AFB,Avionics,Boeing,2025-03-08,13.0,0,Completed,42779.96,87
+909,AC-7815,F-35A,Nellis AFB,Hydraulics,Northrop,2024-07-09,33.0,5,Awaiting Parts,37137.56,67
+910,AC-1510,F-22,Hill AFB,Engine Repair,Boeing,04/27/2025,28.0,N/A,Delayed,19176.33,69
+911,AC-6636,F-22,Nellis AFB,Landing Gear,Raytheon,02/03/2025,27.0,11,Completed,31754.57,65
+912,AC-9249,B-2,Eglin AFB,Electrical,GE Aerospace,04/24/2024,10.0,12,Completed,18628.35,82
+913,AC-6192,F-16,Luke AFB,Landing Gear,Boeing,09/23/2024,15.0,6,In Progress,43649.93,81
+914,AC-4949,C-130,Nellis AFB,Hydraulics,Raytheon,05/12/2025,24.0,6,Awaiting Parts,30559.46,66
+915,AC-3052,B-2,Luke AFB,Software Update,L3Harris,08/02/2024,18.0,7,In Progress,5354.72,73
+916,AC-3431,B-2,Nellis AFB,Electrical,Northrop,08/03/2024,15.0,N/A,Completed,11187.83,83
+917,AC-2654,F-22,Fort Worth,Software Update,Raytheon,12/30/2024,21.0,4,Awaiting Parts,46065.71,77
+918,AC-4955,F-16,Fort Worth,Hydraulics,Boeing,07/24/2024,30.0,3,Completed,23189.95,70
+919,AC-7699,C-130,Nellis AFB,Hydraulics,GE Aerospace ,05/01/2025,17.0,3,Completed,27340.3,82
+920,AC-8430,C-130,Hill AFB,Software Update,Northrop,10/30/2024,11.0,0,Completed,32472.53,89
+921,AC-9481,B-2,Eglin AFB,Landing Gear,GE Aerospace,01/25/2024,23.0,1,Delayed,35744.27,80
+922,AC-8053,B-2,Hill AFB,Landing Gear,L3Harris,03/27/2025,12.0,6,In Progress,34844.13,80
+923,AC-5726,F-16,Eglin AFB,engine repair,Northrop,03/29/2025,17.0,6,Delayed,18802.84,74
+924,AC-9813,F-22,Fort Worth,Software Update,Raytheon,05/06/2025,16.0,4,Awaiting Parts,16041.06,83
+925,AC-5832,F-35A,Fort Worth,Software Update,GE Aerospace,03/01/2025,16.0,0,In Progress,19106.16,86
+926,AC-4644,F-35A,Hill AFB,Avionics,L3Harris,06/30/2024,15.0,3,Completed,22102.03,78
+927,AC-8100,F-35A,Eglin AFB,Hydraulics,Northrop,04/18/2025,17.0,6,Completed,35494.2,72
+928,AC-7163,F-22,Luke AFB,Hydraulics,GE Aerospace,2024-05-05,12.0,0,In Progress,12495.47,85
+929,AC-4509,F-35A,Nellis AFB,Engine Repair,GE Aerospace,02/15/2024,14.0,3,Awaiting Parts,15760.05,86
+930,AC-4845,F-16,Nellis AFB,Landing Gear,Northrop,11/19/2024,7.0,3,Awaiting Parts,27177.12,94
+931,AC-9903,C-130,Hill AFB,Engine Repair,Northrop,2024-11-02,22.0,2,In Progress,20044.03,76
+932,AC-7960,F-35A,Luke AFB,Software Update,Boeing,05/06/2024,10.0,4,Delayed,14818.86,91
+933,AC-7750,F-22,Fort Worth,Hydraulics,Boeing,02/16/2025,22.0,0,Completed,20684.44,80
+934,AC-7737,C-130,Nellis AFB,Software Update,GE Aerospace,12/11/2024,20.0,5,Delayed,57316.4,75
+935,AC-7714,F-22,Eglin AFB,Avionics,L3Harris,06/06/2024,20.0,0,In Progress,23854.43,82
+936,AC-7212,F-35A,Hill AFB,Hydraulics,L3Harris,2025-05-01,,4,Delayed,15003.33,88
+937,AC-5754,F-22,Hill AFB,Hydraulics,GE Aerospace,07/21/2024,25.0,2,Completed,23598.81,71
+938,AC-9216,C-130,Nellis AFB,Engine Repair,Northrop,09/26/2024,,11,Delayed,21145.09,73
+939,AC-7565,F-22,Hill AFB,engine repair,Raytheon,2025-02-20,32.0,8,Awaiting Parts,30784.8,61
+940,AC-3487,F-35A,Eglin AFB,Software Update,Northrop ,10/04/2024,20.0,6,Awaiting Parts,1867.93,78
+941,AC-4320,F-35A,Hill AFB,Electrical,L3Harris,05/20/2024,15.0,8,Awaiting Parts,24413.23,79
+942,AC-9300,F-22,Nellis AFB,Engine Repair,GE Aerospace,04/09/2025,6.0,4,Completed,45449.27,93
+943,AC-4802,C-130,Hill AFB,Software Update,L3Harris,2024-01-13,27.0,4,Completed,36417.39,70
+944,AC-5095,F-35A,Luke AFB,Software Update,L3Harris,03/18/2025,15.0,0,Delayed,13906.41,87
+945,AC-6535,F-22,Fort Worth,Hydraulics,L3Harris,07/29/2024,30.0,3,Delayed,22079.39,66
+946,AC-6128,F-22,Hill AFB,Software Update,GE Aerospace,10/06/2024,15.0,12,Completed,44511.51,75
+947,AC-3085,F-35A,Luke AFB,Landing Gear,Raytheon,2024-02-09,35.0,4,Completed,28547.49,62
+948,AC-8982,F-22,Eglin AFB,Software Update,GE Aerospace,2024-11-16,5.0,10,In Progress,10986.65,88
+949,AC-3718,F-22,Hill AFB,Landing Gear,Northrop,07/09/2024,19.0,0,In Progress,17933.6,85
+950,AC-3690,B-2,Nellis AFB,Engine Repair,Boeing,06/18/2024,11.0,N/A,Completed,18530.53,84
+951,AC-9810,C-130,Hill AFB,Engine Repair,Raytheon ,12/21/2024,13.0,N/A,Delayed,11741.65,75
+952,AC-5656,C-130,Eglin AFB,Electrical,Boeing,04/08/2024,19.0,9,Delayed,18841.64,71
+953,AC-5587,F-22,Hill AFB,Landing Gear,Raytheon,2025-01-09,12.0,4,Awaiting Parts,39156.7,82
+954,AC-5542,B-2,Nellis AFB,Avionics,Northrop,2024-10-30,19.0,2,Delayed,30806.52,83
+955,AC-2274,F-35A,Luke AFB,Landing Gear,GE Aerospace,01/01/2024,9.0,7,Completed,29903.29,84
+956,AC-8773,F-16,Hill AFB,Landing Gear,Boeing,01/31/2025,15.0,1,Delayed,14359.83,85
+957,AC-8163,B-2,Nellis AFB,Software Update,Boeing,12/30/2024,22.0,9,In Progress,17352.31,66
+958,AC-6668,C-130,Luke AFB,Landing Gear,L3Harris,03/13/2025,21.0,0,In Progress,17984.59,81
+959,AC-8243,F-16,Eglin AFB,Avionics,Raytheon ,01/06/2024,17.0,1,In Progress,13761.92,80
+960,AC-5504,C-130,Nellis AFB,Engine Repair,Boeing,05/19/2024,12.0,6,Completed,22752.05,77
+961,AC-8446,C-130,Luke AFB,Software Update,L3Harris,11/07/2024,,N/A,Delayed,17717.62,100
+962,AC-2356,C-130,Fort Worth,Engine Repair,GE Aerospace,03/11/2025,21.0,0,In Progress,19003.24,76
+963,AC-6450,F-16,Luke AFB,Landing Gear,Boeing,11/10/2024,13.0,10,Completed,20379.74,72
+964,AC-5368,F-35A,Luke AFB,Software Update,Raytheon,09/13/2024,21.0,5,Delayed,566.8,71
+965,AC-6098,F-16,Eglin AFB,Hydraulics,Raytheon,04/26/2025,24.0,5,Awaiting Parts,31099.22,66
+966,AC-4041,F-16,Eglin AFB,Electrical,Raytheon,04/03/2024,49.0,0,In Progress,45696.36,55
+967,AC-6042,F-22,Luke AFB,Hydraulics,Raytheon,04/27/2025,15.0,6,In Progress,24453.85,77
+968,AC-3901,F-16,Hill AFB,Electrical,GE Aerospace,05/19/2024,14.0,2,In Progress,28954.1,82
+969,AC-3793,F-35A,Eglin AFB,Software Update,Northrop,02/28/2025,5.0,8,In Progress,20005.67,92
+970,AC-6606,B-2,Eglin AFB,Electrical,Boeing,2024-05-27,8.0,3,Awaiting Parts,40085.79,87
+971,AC-4054,C-130,Luke AFB,Software Update,L3Harris,09/21/2024,13.0,6,Completed,16228.52,86
+972,AC-3600,C-130,Nellis AFB,Hydraulics,Boeing,07/02/2024,24.0,7,In Progress,47183.31,64
+973,AC-8192,B-2,Nellis AFB,Landing Gear,L3Harris,01/20/2025,16.0,7,Delayed,26176.81,72
+974,AC-7572,F-16,Fort Worth,Avionics,L3Harris,2024-06-21,28.0,2,Awaiting Parts,33940.06,72
+975,AC-9586,F-22,Eglin AFB,Avionics,Northrop,03/26/2024,16.0,N/A,Completed,26101.03,79
+976,AC-8515,C-130,Luke AFB,Software Update,Raytheon,02/14/2025,20.0,4,In Progress,27576.56,76
+977,AC-2477,F-22,Luke AFB,Electrical,L3Harris,04/14/2024,30.0,8,In Progress,35429.86,63
+978,AC-8738,C-130,Nellis AFB,Electrical,Northrop,07/20/2024,14.0,1,Delayed,36463.61,83
+979,AC-7956,B-2,Nellis AFB,Landing Gear,Raytheon,05/24/2024,25.0,10,Completed,17752.23,70
+980,AC-7047,F-16,Hill AFB,Landing Gear,Raytheon,01/28/2025,16.0,0,Delayed,20290.35,82
+981,AC-8133,F-35A,Hill AFB,Software Update,Northrop,04/18/2024,25.0,3,Awaiting Parts,32685.76,71
+982,AC-3679,C-130,Eglin AFB,Engine Repair,GE Aerospace ,08/03/2024,16.0,6,Awaiting Parts,11227.7,75
+983,AC-9306,C-130,Nellis AFB,Engine Repair,GE Aerospace,06/12/2024,18.0,0,Completed,22757.25,79
+984,AC-8377,B-2,Hill AFB,Software Update,Boeing,11/20/2024,4.0,9,Delayed,34328.89,83
+985,AC-2310,F-22,Fort Worth,Hydraulics,L3Harris,07/15/2024,21.0,11,Awaiting Parts,13613.0,73
+986,AC-9021,C-130,Hill AFB,Engine Repair,L3Harris ,01/21/2024,31.0,8,In Progress,22161.34,57
+987,AC-5804,F-16,Nellis AFB,Engine Repair,GE Aerospace,05/16/2024,27.0,0,In Progress,15105.83,70
+988,AC-3871,F-35A,Eglin AFB,Engine Repair,Northrop,07/21/2024,13.0,2,In Progress,12321.31,83
+989,AC-9577,B-2,Nellis AFB,Engine Repair,Raytheon,11/12/2024,,3,Completed,29230.06,68
+990,AC-5947,C-130,Nellis AFB,Engine Repair,Northrop,02/10/2024,13.0,0,Completed,28240.69,87
+991,AC-5275,F-16,Eglin AFB,Landing Gear,L3Harris,02/29/2024,2.0,4,In Progress,8580.22,92
+992,AC-5502,F-22,Hill AFB,landing gear,Raytheon,04/23/2025,33.0,8,In Progress,26269.05,60
+993,AC-3126,F-16,Hill AFB,software update,L3Harris,02/04/2025,28.0,1,Delayed,31521.75,72
+994,AC-5715,B-2,Nellis AFB,Landing Gear,GE Aerospace,02/02/2024,19.0,6,Completed,40268.24,79
+995,AC-3486,C-130,Nellis AFB,Avionics,L3Harris,02/25/2025,23.0,6,Completed,5141.35,73
+996,AC-8971,B-2,Hill AFB,Engine Repair,Northrop,02/10/2024,10.0,4,In Progress,26120.47,91
+997,AC-3731,B-2,Hill AFB,Landing Gear,GE Aerospace,03/20/2024,8.0,14,In Progress,43196.73,82
+998,AC-9807,F-22,Nellis AFB,Landing Gear,Raytheon,2024-04-30,22.0,5,In Progress,22453.49,74
+999,AC-7693,F-16,Luke AFB,Software Update,L3Harris,02/02/2025,10.0,5,In Progress,28093.03,86
+1000,AC-9107,C-130,Hill AFB,Software Update,Northrop,04/25/2024,8.0,6,In Progress,23136.89,87
+1001,AC-7280,B-2,Nellis AFB,Software Update,GE Aerospace,2024-12-15,,1,Completed,20036.73,93
+1002,AC-6325,B-2,Luke AFB,Avionics,L3Harris,04/29/2025,33.0,7,Completed,8974.22,55
+1003,AC-9377,F-22,Luke AFB,Software Update,Boeing,11/30/2024,21.0,0,Delayed,37992.29,80
+1004,AC-4391,B-2,Nellis AFB,Software Update,Northrop,04/02/2025,14.0,4,Delayed,40909.56,77
+1005,AC-6427,F-22,Luke AFB,Software Update,Raytheon,2024-02-26,,0,Awaiting Parts,17996.81,97
+1006,AC-9803,F-35A,Eglin AFB,Electrical,L3Harris,08/01/2024,26.0,0,Completed,8985.87,73
+1007,AC-6953,C-130,Eglin AFB,Electrical,GE Aerospace,02/25/2025,14.0,7,In Progress,39403.14,74
+1008,AC-3768,F-16,Nellis AFB,Electrical,Boeing,2025-02-09,14.0,3,In Progress,38846.81,79
+1009,AC-9053,F-22,Hill AFB,Hydraulics,Boeing,02/07/2024,3.0,3,In Progress,27285.09,96
+1010,AC-3425,B-2,Hill AFB,Engine Repair,Northrop,01/24/2025,21.0,2,In Progress,25413.29,74
+1011,AC-8787,C-130,Hill AFB,avionics,Northrop,2024-11-20,1.0,2,Delayed,30442.1,96
+1012,AC-1197,F-16,Hill AFB,Electrical,L3Harris,06/04/2024,10.0,5,Delayed,30362.47,82
+1013,AC-6149,B-2,Hill AFB,Software Update,GE Aerospace ,10/27/2024,15.0,5,Awaiting Parts,13447.21,83
+1014,AC-6609,F-22,Hill AFB,Avionics,Northrop,2025-04-29,16.0,7,Completed,26883.68,73
+1015,AC-1199,B-2,Luke AFB,Electrical,Northrop,08/23/2024,,5,In Progress,33575.32,86
+1016,AC-9810,F-35A,Fort Worth,Software Update,L3Harris,05/07/2025,1.0,9,Delayed,20964.94,93
+1017,AC-8472,F-22,Fort Worth,Landing Gear,Boeing,05/05/2024,21.0,9,Completed,8539.92,68
+1018,AC-4403,F-22,Luke AFB,Landing Gear,L3Harris,06/04/2024,12.0,3,Completed,15594.96,80
+1019,AC-2907,C-130,Fort Worth,Software Update,Northrop,2024-04-10,31.0,1,In Progress,18333.44,70
+1020,AC-8252,F-22,Eglin AFB,Electrical,L3Harris,03/16/2025,19.0,0,Awaiting Parts,20251.83,77
+1021,AC-9311,C-130,Eglin AFB,Hydraulics,Boeing,03/31/2024,20.0,3,In Progress,23879.36,77
+1022,AC-8988,F-35A,Hill AFB,Landing Gear,GE Aerospace,01/22/2025,13.0,0,In Progress,28859.12,84
+1023,AC-9824,F-22,Luke AFB,Engine Repair,Northrop,06/24/2024,32.0,5,Awaiting Parts,27703.17,68
+1024,AC-3532,F-16,Luke AFB,Avionics,GE Aerospace,11/08/2024,23.0,0,Delayed,45430.18,75
+1025,AC-7830,F-16,Luke AFB,Hydraulics,GE Aerospace,08/30/2024,19.0,11,In Progress,16203.6,75
+1026,AC-8368,F-16,Nellis AFB,Landing Gear,GE Aerospace,01/16/2025,,8,Completed,31636.48,60
+1027,AC-8485,F-16,Fort Worth,electrical,Northrop,02/16/2025,19.0,4,In Progress,39406.38,74
+1028,AC-4267,F-22,Eglin AFB,Landing Gear,GE Aerospace,07/14/2024,19.0,0,In Progress,11593.76,81
+1029,AC-1753,C-130,Nellis AFB,Avionics,Boeing,10/30/2024,16.0,N/A,Completed,24320.94,80
+1030,AC-5656,F-35A,Nellis AFB,Avionics,Raytheon,07/08/2024,27.0,0,Delayed,26723.06,75
+1031,AC-2441,C-130,Luke AFB,Hydraulics,L3Harris,10/20/2024,3.0,8,In Progress,23866.5,87
+1032,AC-6143,F-16,Nellis AFB,Electrical,Northrop,2025-01-29,21.0,1,In Progress,40353.58,74
+1033,AC-1379,F-22,Fort Worth,Electrical,GE Aerospace,05/12/2024,26.0,7,Completed,23445.79,66
+1034,AC-8163,F-35A,Eglin AFB,Hydraulics,L3Harris,01/09/2024,22.0,2,Completed,35266.67,80
+1035,AC-9712,F-22,Eglin AFB,Engine Repair,L3Harris,02/03/2025,31.0,9,Completed,16244.77,56
+1036,AC-8393,F-22,Hill AFB,Engine Repair,Northrop,05/21/2024,20.0,0,Awaiting Parts,31868.68,82
+1037,AC-7388,F-35A,Fort Worth,Avionics,Boeing,05/30/2024,21.0,0,In Progress,11058.59,74
+1038,AC-6810,B-2,Luke AFB,Avionics,Northrop,04/12/2024,15.0,N/A,Completed,10486.28,86
+1039,AC-6365,F-16,Luke AFB,Electrical,Northrop,05/03/2025,21.0,6,Delayed,22668.77,69
+1040,AC-3249,C-130,Fort Worth,Software Update,Raytheon,06/30/2024,11.0,9,Awaiting Parts,44864.89,75
+1041,AC-7234,B-2,Fort Worth,Engine Repair,Northrop,04/11/2024,14.0,2,Delayed,30894.49,82
+1042,AC-6871,F-16,Nellis AFB,Avionics,Northrop,09/07/2024,15.0,4,In Progress,33875.84,85
+1043,AC-7226,C-130,Nellis AFB,Engine Repair,Boeing,01/09/2024,2.0,N/A,In Progress,25872.17,83
+1044,AC-7384,C-130,Fort Worth,Hydraulics,Boeing,2024-11-29,14.0,4,Completed,24549.15,87
+1045,AC-1638,F-35A,Eglin AFB,Avionics,Boeing,12/21/2024,4.0,10,Delayed,25495.91,88
+1046,AC-3975,F-16,Fort Worth,Avionics,Raytheon ,03/18/2024,21.0,8,In Progress,12746.05,76
+1047,AC-1466,C-130,Fort Worth,Electrical,Northrop ,01/14/2024,,3,Delayed,35161.25,76
+1048,AC-2509,C-130,Fort Worth,Engine Repair,GE Aerospace,04/04/2025,0.0,4,Awaiting Parts,17766.15,94
+1049,AC-6102,C-130,Nellis AFB,Hydraulics,Northrop,11/22/2024,21.0,6,Completed,16508.49,68
+1050,AC-4215,F-22,Luke AFB,Landing Gear,Northrop,03/12/2025,12.0,4,Completed,14240.29,88
+1051,AC-5092,F-22,Hill AFB,Avionics,Boeing,11/10/2024,24.0,3,In Progress,9883.86,69
+1052,AC-3379,B-2,Fort Worth,Electrical,GE Aerospace,08/04/2024,15.0,0,Completed,5424.69,85
+1053,AC-3652,C-130,Hill AFB,Engine Repair,L3Harris,02/10/2025,8.0,5,Awaiting Parts,40943.69,85
+1054,AC-9943,C-130,Fort Worth,Electrical,Boeing,11/14/2024,20.0,2,Delayed,30470.85,77
+1055,AC-8476,F-35A,Hill AFB,Landing Gear,Boeing,2024-09-06,14.0,2,Delayed,11147.65,87
+1056,AC-2970,B-2,Hill AFB,Avionics,Boeing,02/28/2025,3.0,3,Completed,26896.64,90
+1057,AC-9370,F-22,Luke AFB,Electrical,Northrop,04/03/2024,17.0,3,Delayed,13651.05,81
+1058,AC-6941,B-2,Luke AFB,Electrical,L3Harris,2024-01-25,22.0,0,Delayed,34312.33,81
+1059,AC-7947,F-22,Hill AFB,Engine Repair,GE Aerospace,03/18/2024,9.0,1,Awaiting Parts,7398.58,93
+1060,AC-1005,F-35A,Hill AFB,Electrical,L3Harris,04/25/2025,13.0,8,Completed,31187.54,78
+1061,AC-3625,F-22,Nellis AFB,Avionics,GE Aerospace,03/14/2024,25.0,7,Completed,11755.96,70
+1062,AC-3022,B-2,Luke AFB,Avionics,GE Aerospace,2024-03-12,15.0,1,Completed,40966.9,85
+1063,AC-8718,F-22,Nellis AFB,Hydraulics,Raytheon,01/30/2025,8.0,8,In Progress,35715.45,89
+1064,AC-5185,F-35A,Nellis AFB,Software Update,L3Harris,2024-01-21,32.0,3,Awaiting Parts,33547.87,66
+1065,AC-6940,F-22,Nellis AFB,Electrical,GE Aerospace,02/22/2024,36.0,2,In Progress,6579.52,58
+1066,AC-9320,F-16,Nellis AFB,Electrical,Boeing,04/08/2025,2.0,7,Awaiting Parts,2402.2,90
+1067,AC-5354,F-35A,Nellis AFB,Landing Gear,L3Harris,10/29/2024,15.0,6,Awaiting Parts,27222.11,80
+1068,AC-2615,B-2,Fort Worth,Engine Repair,Northrop,03/05/2025,21.0,5,Awaiting Parts,40346.39,79
+1069,AC-8212,C-130,Eglin AFB,Landing Gear,Raytheon ,01/21/2024,10.0,2,Awaiting Parts,15728.09,88
+1070,AC-1395,F-16,Fort Worth,Hydraulics,GE Aerospace,10/17/2024,24.0,8,In Progress,30414.7,65
+1071,AC-5532,C-130,Fort Worth,Hydraulics,GE Aerospace,06/29/2024,27.0,0,Delayed,45006.69,71
+1072,AC-6273,C-130,Hill AFB,Avionics,GE Aerospace,10/07/2024,30.0,7,Delayed,46381.59,68
+1073,AC-7652,F-16,Eglin AFB,Software Update,Northrop,04/13/2025,4.0,2,Awaiting Parts,16176.36,90
+1074,AC-3608,F-22,Hill AFB,Engine Repair,Raytheon,2025-04-03,23.0,0,In Progress,34089.94,77
+1075,AC-2244,F-22,Fort Worth,Engine Repair,L3Harris,07/22/2024,28.0,7,Delayed,28405.01,69
+1076,AC-7311,F-35A,Hill AFB,Landing Gear,L3Harris,07/22/2024,10.0,1,Completed,39995.43,86
+1077,AC-9101,F-22,Luke AFB,Avionics,Northrop ,05/20/2024,24.0,4,In Progress,19985.09,67
+1078,AC-8191,C-130,Eglin AFB,Landing Gear,L3Harris,2024-11-09,1.0,0,Awaiting Parts,47937.03,100
+1079,AC-6963,F-16,Nellis AFB,Hydraulics,Boeing,07/17/2024,7.0,5,In Progress,37089.33,87
+1080,AC-9819,B-2,Luke AFB,Engine Repair,L3Harris,06/13/2024,7.0,5,Delayed,36254.99,86
+1081,AC-4669,C-130,Hill AFB,Landing Gear,Raytheon,11/26/2024,18.0,16,Completed,4976.81,69
+1082,AC-1942,F-16,Nellis AFB,Electrical,Northrop,2024-10-13,26.0,4,In Progress,34263.04,72
+1083,AC-9041,C-130,Luke AFB,Software Update,Northrop,01/07/2025,21.0,2,In Progress,27747.96,72
+1084,AC-7670,F-22,Eglin AFB,Electrical,L3Harris,03/24/2025,,7,In Progress,28577.9,93
+1085,AC-2042,B-2,Nellis AFB,Electrical,Northrop ,02/06/2024,23.0,9,Delayed,29411.44,72
+1086,AC-2957,F-16,Fort Worth,Engine Repair,GE Aerospace,04/20/2025,19.0,1,Awaiting Parts,16453.35,82
+1087,AC-3998,F-35A,Hill AFB,Hydraulics,Northrop,03/09/2025,27.0,10,Delayed,22142.67,63
+1088,AC-2336,F-16,Nellis AFB,Engine Repair,L3Harris,06/28/2024,18.0,N/A,Completed,39073.08,86
+1089,AC-1206,F-35A,Hill AFB,Software Update,Boeing,2024-01-01,23.0,12,Completed,14460.12,68
+1090,AC-3978,B-2,Luke AFB,Hydraulics,Raytheon,11/13/2024,14.0,5,Delayed,32757.87,83
+1091,AC-9312,F-22,Nellis AFB,Engine Repair,L3Harris,2025-03-26,16.0,1,Completed,35576.89,80
+1092,AC-6718,F-22,Eglin AFB,Landing Gear,Northrop,05/29/2024,23.0,1,In Progress,41265.31,72
+1093,AC-8338,F-35A,Eglin AFB,Engine Repair,Boeing,10/07/2024,27.0,5,Awaiting Parts,25955.17,69
+1094,AC-8871,B-2,Fort Worth,Landing Gear,Raytheon,07/02/2024,22.0,1,Awaiting Parts,25360.38,72
+1095,AC-3219,C-130,Luke AFB,Hydraulics,GE Aerospace,05/24/2024,0.0,8,Awaiting Parts,6262.08,92
+1096,AC-6011,C-130,Hill AFB,Electrical,Raytheon,11/08/2024,,3,In Progress,22460.0,68
+1097,AC-3840,F-16,Fort Worth,Landing Gear,Raytheon,2024-10-19,12.0,3,Completed,42022.38,88
+1098,AC-9584,F-22,Eglin AFB,Hydraulics,Raytheon,08/10/2024,1.0,10,Delayed,29056.28,92
+1099,AC-4387,B-2,Eglin AFB,engine repair,Raytheon,04/14/2024,8.0,0,In Progress,45116.72,94
+1100,AC-3900,C-130,Luke AFB,Hydraulics,GE Aerospace,2025-02-20,10.0,0,In Progress,38647.77,90
+1101,AC-6074,F-22,Hill AFB,Software Update,Raytheon,10/19/2024,20.0,1,Delayed,27599.5,84
+1102,AC-7479,F-35A,Nellis AFB,Avionics,Northrop,2024-11-03,9.0,9,Awaiting Parts,37736.45,77
+1103,AC-7524,F-16,Eglin AFB,Hydraulics,Boeing,03/26/2024,22.0,6,Awaiting Parts,46134.26,71
+1104,AC-9158,F-22,Luke AFB,Landing Gear,Raytheon,05/01/2025,17.0,0,Awaiting Parts,30393.69,79
+1105,AC-4960,C-130,Eglin AFB,Hydraulics,GE Aerospace,02/16/2025,34.0,0,Delayed,20662.45,62
+1106,AC-1232,F-22,Hill AFB,Hydraulics,Northrop,01/23/2024,21.0,4,Awaiting Parts,13212.36,79
+1107,AC-4690,F-22,Luke AFB,Hydraulics,GE Aerospace,2024-09-15,26.0,14,In Progress,27353.58,56
+1108,AC-1929,F-35A,Fort Worth,Software Update,L3Harris,05/08/2025,10.0,0,In Progress,28095.71,90
+1109,AC-4828,F-35A,Nellis AFB,Engine Repair,L3Harris,2024-02-23,26.0,6,Delayed,24971.15,73
+1110,AC-1324,C-130,Eglin AFB,Electrical,GE Aerospace,10/06/2024,13.0,0,Delayed,35017.02,83
+1111,AC-8454,C-130,Luke AFB,Software Update,L3Harris,06/25/2024,25.0,0,Delayed,44078.07,80
+1112,AC-7030,F-35A,Nellis AFB,Hydraulics,Northrop,2024-05-11,22.0,10,Delayed,8894.47,65
+1113,AC-4409,C-130,Nellis AFB,Software Update,GE Aerospace,11/16/2024,7.0,4,In Progress,31033.41,89
+1114,AC-4373,F-22,Luke AFB,Electrical,Northrop,03/09/2024,32.0,7,In Progress,22087.82,64
+1115,AC-7140,F-16,Luke AFB,Software Update,Northrop,01/26/2025,9.0,9,Awaiting Parts,13423.53,83
+1116,AC-7296,B-2,Nellis AFB,Avionics,GE Aerospace,2024-10-09,31.0,3,Delayed,44086.98,63
+1117,AC-7584,B-2,Luke AFB,Avionics,GE Aerospace,10/15/2024,23.0,4,Awaiting Parts,18767.24,70
+1118,AC-1578,F-35A,Fort Worth,Engine Repair,Raytheon,2024-11-09,15.0,N/A,Completed,25925.88,82
+1119,AC-4489,F-16,Fort Worth,Hydraulics,L3Harris,04/13/2024,13.0,4,Awaiting Parts,25942.92,80
+1120,AC-3618,F-22,Luke AFB,Software Update,Raytheon,06/04/2024,0.0,6,Awaiting Parts,13243.35,90
+1121,AC-2857,F-22,Nellis AFB,Engine Repair,Raytheon,2025-03-10,8.0,0,Delayed,3473.29,90
+1122,AC-8224,B-2,Eglin AFB,Avionics,GE Aerospace,02/22/2025,7.0,2,In Progress,48439.11,91
+1123,AC-2128,F-22,Luke AFB,Landing Gear,Boeing,03/29/2025,13.0,5,Delayed,29805.78,82
+1124,AC-6811,B-2,Nellis AFB,Engine Repair,L3Harris,12/30/2024,19.0,4,In Progress,10656.47,73
+1125,AC-9021,F-16,Luke AFB,Engine Repair,Northrop,09/23/2024,29.0,12,In Progress,4808.1,55
+1126,AC-8505,F-35A,Hill AFB,Landing Gear,Raytheon,2025-01-23,9.0,3,Completed,13425.55,93
+1127,AC-7363,F-35A,Hill AFB,Electrical,GE Aerospace,08/28/2024,22.0,2,Awaiting Parts,50980.67,77
+1128,AC-5285,B-2,Luke AFB,Software Update,Boeing,04/27/2025,27.0,5,Completed,37323.84,68
+1129,AC-2859,F-35A,Luke AFB,Engine Repair,Northrop,2025-03-17,26.0,2,Delayed,15205.39,75
+1130,AC-6589,B-2,Fort Worth,Avionics,L3Harris,01/05/2024,18.0,8,In Progress,26668.72,69
+1131,AC-3272,F-22,Fort Worth,Avionics,Raytheon,03/03/2024,5.0,1,Delayed,24112.33,89
+1132,AC-9672,F-22,Nellis AFB,Avionics,GE Aerospace,07/17/2024,17.0,12,Completed,8368.14,71
+1133,AC-4239,F-16,Luke AFB,Landing Gear,L3Harris,02/10/2024,22.0,10,Completed,52257.4,65
+1134,AC-3661,C-130,Eglin AFB,Hydraulics,L3Harris,01/22/2025,14.0,6,In Progress,31837.12,78
+1135,AC-5123,F-16,Luke AFB,Engine Repair,Raytheon,2024-09-28,19.0,4,Awaiting Parts,30231.7,72
+1136,AC-1196,F-35A,Hill AFB,Landing Gear,Boeing,01/01/2025,2.0,7,In Progress,26514.13,93
+1137,AC-7069,C-130,Hill AFB,Software Update,Boeing,07/02/2024,16.0,13,Delayed,16900.79,73
+1138,AC-6314,C-130,Nellis AFB,Software Update,GE Aerospace,2024-08-26,14.0,12,Completed,15015.26,76
+1139,AC-3447,C-130,Hill AFB,Engine Repair,GE Aerospace ,07/14/2024,13.0,4,Delayed,35088.81,88
+1140,AC-5438,F-16,Luke AFB,Engine Repair,GE Aerospace,08/29/2024,19.0,0,In Progress,18613.98,78
+1141,AC-8091,C-130,Luke AFB,Software Update,Raytheon,01/05/2025,13.0,4,Awaiting Parts,30110.12,85
+1142,AC-4545,C-130,Nellis AFB,Engine Repair,Boeing,09/22/2024,21.0,0,Awaiting Parts,37767.29,81
+1143,AC-6588,F-16,Luke AFB,Hydraulics,L3Harris,09/28/2024,20.0,10,Awaiting Parts,30330.38,69
+1144,AC-6120,C-130,Hill AFB,Landing Gear,Boeing,12/18/2024,26.0,6,Delayed,41154.71,66
+1145,AC-4883,F-22,Nellis AFB,Landing Gear,GE Aerospace,10/20/2024,22.0,4,Awaiting Parts,52269.22,72
+1146,AC-9043,C-130,Eglin AFB,Electrical,Boeing,2024-02-11,25.0,7,In Progress,9684.35,71
+1147,AC-8761,F-22,Luke AFB,Electrical,Raytheon,02/02/2025,7.0,6,Delayed,26746.25,82
+1148,AC-9786,F-22,Luke AFB,Landing Gear,L3Harris,2024-09-05,13.0,5,Delayed,44063.52,82
+1149,AC-7930,F-35A,Hill AFB,Hydraulics,Northrop,2024-05-07,,0,Awaiting Parts,23661.89,78
+1150,AC-8318,C-130,Eglin AFB,Avionics,L3Harris,04/10/2025,11.0,3,Awaiting Parts,20036.61,83
+1151,AC-3668,B-2,Luke AFB,Hydraulics,Raytheon,2024-08-20,14.0,0,In Progress,23468.14,85
+1152,AC-1417,C-130,Hill AFB,Software Update,Northrop,07/11/2024,13.0,N/A,In Progress,49635.66,90
+1153,AC-1915,F-22,Nellis AFB,Engine Repair,Raytheon,2024-01-21,26.0,3,Delayed,25225.83,74
+1154,AC-2329,C-130,Hill AFB,Engine Repair,GE Aerospace,07/01/2024,8.0,11,Awaiting Parts,47767.46,81
+1155,AC-8348,F-22,Fort Worth,Hydraulics,Northrop,02/15/2024,19.0,9,Completed,27103.44,70
+1156,AC-1691,F-22,Luke AFB,avionics,Northrop,09/02/2024,7.0,3,Awaiting Parts,26583.14,85
+1157,AC-7798,B-2,Fort Worth,Engine Repair,Northrop,09/09/2024,14.0,4,Completed,23903.21,77
+1158,AC-9341,F-22,Nellis AFB,Avionics,Northrop,03/27/2025,17.0,5,In Progress,12272.74,78
+1159,AC-4302,B-2,Hill AFB,Hydraulics,Northrop,07/17/2024,12.0,0,In Progress,36733.79,85
+1160,AC-9385,C-130,Luke AFB,Avionics,Raytheon,2025-05-10,1.0,9,Delayed,41636.19,95
+1161,AC-4511,B-2,Hill AFB,Hydraulics,GE Aerospace ,2025-01-17,15.0,0,In Progress,20664.27,84
+1162,AC-3964,F-16,Luke AFB,Software Update,GE Aerospace,01/07/2024,17.0,0,Delayed,18817.38,81
+1163,AC-5071,F-35A,Eglin AFB,Engine Repair,Raytheon,11/01/2024,30.0,7,In Progress,13905.23,62
+1164,AC-3613,F-35A,Fort Worth,Hydraulics,Northrop,07/14/2024,5.0,3,In Progress,22438.52,96
+1165,AC-1573,F-35A,Hill AFB,Avionics,Boeing,01/12/2024,21.0,2,Delayed,31137.99,76
+1166,AC-1497,C-130,Luke AFB,Engine Repair,Raytheon,2025-05-02,33.0,8,In Progress,24422.94,64
+1167,AC-3511,F-22,Fort Worth,Software Update,GE Aerospace ,2024-09-02,16.0,3,Awaiting Parts,39167.69,77
+1168,AC-2032,F-16,Hill AFB,Electrical,GE Aerospace,04/04/2025,12.0,5,Delayed,25614.37,78
+1169,AC-1722,B-2,Nellis AFB,Landing Gear,GE Aerospace,01/01/2024,13.0,0,In Progress,28875.69,92
+1170,AC-9922,F-22,Hill AFB,Electrical,Boeing,08/21/2024,17.0,7,In Progress,18596.8,78
+1171,AC-6692,F-16,Luke AFB,Electrical,GE Aerospace,07/09/2024,27.0,1,Completed,45544.48,74
+1172,AC-8644,C-130,Eglin AFB,Electrical,Northrop,06/19/2024,4.0,6,Delayed,30705.17,90
+1173,AC-3285,F-22,Nellis AFB,Engine Repair,GE Aerospace,03/01/2025,11.0,6,Completed,40354.22,80
+1174,AC-3698,F-22,Hill AFB,Software Update,Raytheon,10/08/2024,0.0,7,Awaiting Parts,4919.25,98
+1175,AC-6752,C-130,Fort Worth,Avionics,GE Aerospace,2024-04-22,10.0,11,Completed,18018.62,83
+1176,AC-9113,F-22,Fort Worth,Electrical,Boeing,02/13/2025,8.0,4,Completed,49814.88,84
+1177,AC-5846,F-35A,Luke AFB,Avionics,Raytheon ,2024-01-09,3.0,0,In Progress,42969.18,92
+1178,AC-6622,C-130,Hill AFB,Avionics,Boeing,11/01/2024,32.0,4,Completed,10131.37,63
+1179,AC-6758,F-35A,Hill AFB,Electrical,GE Aerospace,09/12/2024,34.0,11,Completed,33147.36,55
+1180,AC-9033,F-35A,Nellis AFB,Engine Repair,GE Aerospace,03/26/2025,11.0,4,Completed,23075.68,85
+1181,AC-2540,C-130,Nellis AFB,Electrical,Boeing,01/01/2025,20.0,N/A,In Progress,35553.0,75
+1182,AC-7727,F-35A,Fort Worth,Electrical,Northrop,08/19/2024,9.0,N/A,Awaiting Parts,28757.59,79
+1183,AC-7359,B-2,Fort Worth,Hydraulics,L3Harris,2024-05-20,23.0,10,Awaiting Parts,11661.04,71
+1184,AC-6429,C-130,Fort Worth,electrical,Northrop,05/28/2024,17.0,2,Delayed,6185.69,85
+1185,AC-3893,C-130,Fort Worth,Hydraulics,Northrop,02/17/2025,20.0,15,Awaiting Parts,2919.07,70
+1186,AC-2663,F-22,Luke AFB,avionics,L3Harris,12/24/2024,17.0,7,Awaiting Parts,26476.94,72
+1187,AC-9904,F-35A,Nellis AFB,Software Update,Raytheon,12/21/2024,17.0,0,Completed,27793.44,83
+1188,AC-8776,C-130,Eglin AFB,Avionics,Northrop,2024-12-06,11.0,0,Delayed,39335.11,89
+1189,AC-5309,C-130,Fort Worth,Electrical,Northrop,07/10/2024,25.0,N/A,Delayed,27748.9,73
+1190,AC-1183,F-16,Fort Worth,Landing Gear,Raytheon,2024-12-25,26.0,5,Completed,35848.21,70
+1191,AC-8870,F-22,Luke AFB,Electrical,GE Aerospace,06/12/2024,15.0,10,Completed,28849.43,73
+1192,AC-2114,C-130,Eglin AFB,Engine Repair,L3Harris,2024-09-18,19.0,0,In Progress,28443.47,78
+1193,AC-8075,F-35A,Hill AFB,Software Update,Raytheon,2024-07-27,11.0,2,Awaiting Parts,15215.49,82
+1194,AC-8853,B-2,Eglin AFB,Software Update,Northrop,01/18/2025,9.0,13,Completed,40976.07,75
+1195,AC-2390,F-22,Fort Worth,Hydraulics,Boeing,02/03/2024,33.0,0,In Progress,25855.04,70
+1196,AC-8699,B-2,Nellis AFB,Software Update,L3Harris,06/16/2024,7.0,2,Delayed,13982.48,90
+1197,AC-9728,B-2,Eglin AFB,Electrical,Raytheon,09/07/2024,27.0,3,In Progress,37820.55,70
+1198,AC-4922,B-2,Luke AFB,Hydraulics,Boeing,2025-04-19,22.0,14,In Progress,7246.67,64
+1199,AC-3281,F-16,Luke AFB,Electrical,Boeing,12/03/2024,28.0,9,Awaiting Parts,13319.45,61
+1200,AC-5047,F-22,Eglin AFB,Electrical,Boeing,2025-01-05,26.0,6,Delayed,22270.28,67
+1179,AC-6758,F-35A,Hill AFB,Electrical,GE Aerospace,09/12/2024,34.0,11,Completed,33147.36,55
+866,AC-5075,C-130,Nellis AFB,Software Update,Raytheon,04/22/2025,0.0,2,Delayed,27535.4,98
+102,AC-1502,F-35A,Eglin AFB,Avionics,GE Aerospace,03/13/2024,22.0,4,In Progress,26407.93,79
+440,AC-1107,F-22,Eglin AFB,Hydraulics,L3Harris,11/03/2024,15.0,2,Delayed,22756.34,87
+59,AC-7565,C-130,Fort Worth,Landing Gear,Raytheon,2025-02-24,20.0,8,Completed,25156.02,68
+1121,AC-2857,F-22,Nellis AFB,Engine Repair,Raytheon,2025-03-10,8.0,0,Delayed,3473.29,90
+324,AC-6122,B-2,Fort Worth,Engine Repair,Boeing,05/04/2025,6.0,5,Awaiting Parts,16827.38,94
+975,AC-9586,F-22,Eglin AFB,Avionics,Northrop,03/26/2024,16.0,N/A,Completed,26101.03,79
+412,AC-3832,C-130,Eglin AFB,Engine Repair,L3Harris,02/09/2025,,1,Awaiting Parts,44669.4,63
+856,AC-6473,F-35A,Luke AFB,Hydraulics,Raytheon,2024-08-30,14.0,N/A,In Progress,32813.63,86
+821,AC-7484,F-35A,Hill AFB,Avionics,L3Harris ,08/25/2024,18.0,7,Awaiting Parts,30786.99,76
+45,AC-9751,F-35A,Nellis AFB,Landing Gear,L3Harris,04/15/2025,9.0,6,Awaiting Parts,13966.91,82
+50,AC-1672,F-16,Eglin AFB,Software Update,Boeing,2024-03-02,7.0,N/A,Awaiting Parts,28563.82,90
+850,AC-8802,B-2,Nellis AFB,Hydraulics,Boeing,2024-05-16,13.0,9,Delayed,50061.31,73
+241,AC-8729,F-16,Nellis AFB,Avionics,Northrop,05/05/2024,20.0,0,Awaiting Parts,8821.77,75
+171,AC-9792,F-22,Luke AFB,Hydraulics,L3Harris,09/15/2024,20.0,4,Awaiting Parts,22132.62,74
+524,AC-3409,B-2,Nellis AFB,Hydraulics,Raytheon,01/21/2025,13.0,8,Completed,9948.53,83
+766,AC-1854,F-16,Luke AFB,Hydraulics,GE Aerospace,01/21/2024,22.0,6,In Progress,41819.18,67
+839,AC-3033,C-130,Luke AFB,Landing Gear,Boeing,08/03/2024,16.0,N/A,Completed,26030.72,74
+424,AC-6681,F-16,Hill AFB,Electrical,Boeing,03/21/2024,27.0,9,Completed,32309.66,59
+381,AC-5773,F-16,Eglin AFB,Electrical,GE Aerospace,06/09/2024,15.0,10,In Progress,23199.33,75
+610,AC-1523,F-35A,Hill AFB,Software Update,Raytheon,02/27/2025,29.0,4,In Progress,25226.2,70
+677,AC-1380,B-2,Fort Worth,Avionics,Northrop,06/02/2024,19.0,3,Awaiting Parts,34685.47,78
+345,AC-9227,F-35A,Luke AFB,Landing Gear,Northrop,07/22/2024,21.0,7,Delayed,19201.76,72
+110,AC-3504,F-35A,Luke AFB,Electrical,GE Aerospace,04/11/2024,24.0,7,In Progress,32540.15,66
+278,AC-6633,C-130,Hill AFB,Software Update,GE Aerospace,05/26/2024,10.0,0,Awaiting Parts,15786.43,93
+678,AC-9757,C-130,Luke AFB,Software Update,Raytheon,07/19/2024,10.0,6,In Progress,31065.64,80
+571,AC-4926,F-16,Eglin AFB,Software Update,Boeing,04/26/2025,26.0,4,Completed,1072.03,65
+359,AC-4337,C-130,Eglin AFB,Landing Gear,GE Aerospace,2024-12-14,25.0,3,In Progress,6321.02,73
+599,AC-2364,C-130,Hill AFB,Hydraulics,L3Harris,07/20/2024,19.0,1,In Progress,21171.35,75
+391,AC-3492,F-35A,Eglin AFB,Engine Repair,Northrop,06/13/2024,24.0,6,Awaiting Parts,26250.41,65
+894,AC-4902,F-22,Fort Worth,Landing Gear,Raytheon ,04/15/2025,15.0,7,Completed,21375.45,73
+693,AC-9875,C-130,Nellis AFB,Engine Repair,Northrop ,11/15/2024,22.0,9,Awaiting Parts,23326.64,67
+728,AC-5480,B-2,Nellis AFB,Electrical,Northrop,12/18/2024,15.0,4,In Progress,41474.18,77
+363,AC-4795,B-2,Luke AFB,Electrical,Raytheon,09/18/2024,26.0,5,Completed,21891.49,72
+597,AC-8007,F-16,Eglin AFB,Engine Repair,L3Harris,2024-05-07,,10,Awaiting Parts,2497.93,73
+428,AC-6221,C-130,Nellis AFB,Hydraulics,GE Aerospace,03/15/2024,16.0,7,In Progress,36480.43,72
+71,AC-9327,F-22,Fort Worth,Hydraulics,GE Aerospace,04/16/2025,22.0,9,Completed,36448.02,73
+322,AC-5105,F-22,Fort Worth,Electrical,Boeing,05/26/2024,23.0,4,Awaiting Parts,42281.41,78
+653,AC-8184,F-35A,Nellis AFB,Landing Gear,Raytheon,2024-02-07,0.0,N/A,In Progress,37672.68,87
