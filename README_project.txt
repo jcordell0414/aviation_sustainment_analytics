@@ -2,8 +2,10 @@
 # Aviation Maintenance & Sustainment Analytics Project
 
 ## Objective
-Analyze aircraft maintenance operations, downtime, supplier delays, and readiness performance 
-using SQL, Python, and Tableau.
+The objective of this project was to analyze aviation maintenance operations, supplier delays, 
+and operational readiness metrics to identify performance risks, downtime trends, and opportunities 
+for process improvement using Python, SQL, and Tableau.
+
 
 ## Skills Demonstrated
 - Data Cleaning
