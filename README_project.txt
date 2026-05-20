@@ -6,7 +6,6 @@ The objective of this project was to analyze aviation maintenance operations, su
 and operational readiness metrics to identify performance risks, downtime trends, and opportunities 
 for process improvement using Python, SQL, and Tableau.
 
-
 ## Skills Demonstrated
 - Data Cleaning
 - SQL Querying
@@ -16,13 +15,22 @@ for process improvement using Python, SQL, and Tableau.
 - Forecasting
 - Data Visualization
 
+## Tools Used
+-Python
+-Pandas
+-SQL
+-Tableau
+-Excel
+
 ## Initial Questions
 - Which maintenance categories create the most downtime?
 - Which suppliers create the highest delays?
 - What trends impact readiness scores?
 - Which bases experience the highest operational risk?
 
-##Tableau Dashboards
+##Tableau Dashboards 
+View interactive dashboard here: 
+https://public.tableau.com/views/aviation_maintenance_dashboards/OperationalTrendsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 1. Executive Summary Dashboard
 	- Includes average downtime, total events, readiness score, total maintenance cost
 2. Operational Trends Dashboard
